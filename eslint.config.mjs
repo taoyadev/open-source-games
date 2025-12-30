@@ -16,6 +16,8 @@ const eslintConfig = defineConfig([
     // Additional ignores:
     ".open-next/**",
     "coverage/**",
+    // CommonJS scripts (Node.js scripts that use require)
+    "scripts/fix-worker.js",
   ]),
   {
     rules: {
