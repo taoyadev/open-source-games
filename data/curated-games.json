@@ -1,0 +1,450 @@
+{
+  "parsedAt": "2025-12-29T09:43:14.671Z",
+  "sourceFile": "parsed-markdown",
+  "totalGames": 37,
+  "categories": {
+    "Action / FPS": 4,
+    "RPG / Adventure": 4,
+    "Puzzle / Casual": 3,
+    "Rhythm / Music": 3,
+    "Roguelike": 3,
+    "Simulation": 2,
+    "Strategy": 3,
+    "Racing": 2,
+    "Platformer": 2,
+    "Emulation / Game Engines": 3,
+    "Other Notable Games": 7,
+    "MMORPG / Online": 1
+  },
+  "games": [
+    {
+      "title": "0 A.D.",
+      "slug": "0-ad",
+      "id": "0ad-0ad",
+      "repoUrl": "https://github.com/0ad/0ad",
+      "owner": "0ad",
+      "repo": "0ad",
+      "description": "Historical real-time strategy game",
+      "category": "Action / FPS",
+      "homepage": "https://play0ad.com/"
+    },
+    {
+      "title": "Unvanquished",
+      "slug": "unvanquished",
+      "id": "unvanquished-unvanquished",
+      "repoUrl": "https://github.com/Unvanquished/Unvanquished",
+      "owner": "Unvanquished",
+      "repo": "Unvanquished",
+      "description": "FPS/RTS hybrid game",
+      "category": "Action / FPS",
+      "homepage": "https://unvanquished.net/"
+    },
+    {
+      "title": "Teeworlds",
+      "slug": "teeworlds",
+      "id": "teeworlds-teeworlds",
+      "repoUrl": "https://github.com/teeworlds/teeworlds",
+      "owner": "teeworlds",
+      "repo": "teeworlds",
+      "description": "Retro multiplayer shooter",
+      "category": "Action / FPS",
+      "homepage": "https://teeworlds.com/"
+    },
+    {
+      "title": "AssaultCube",
+      "slug": "assaultcube",
+      "id": "assaultcube-ac",
+      "repoUrl": "https://github.com/assaultcube/AC",
+      "owner": "assaultcube",
+      "repo": "AC",
+      "description": "Fast-paced FPS",
+      "category": "Action / FPS",
+      "homepage": "https://assault.cubers.net/"
+    },
+    {
+      "title": "Veloren",
+      "slug": "veloren",
+      "id": "veloren-veloren",
+      "repoUrl": "https://github.com/veloren/veloren",
+      "owner": "veloren",
+      "repo": "veloren",
+      "description": "Voxel RPG inspired by Cube World",
+      "category": "RPG / Adventure",
+      "homepage": "https://veloren.net/"
+    },
+    {
+      "title": "Minetest",
+      "slug": "minetest",
+      "id": "minetest-minetest",
+      "repoUrl": "https://github.com/minetest/minetest",
+      "owner": "minetest",
+      "repo": "minetest",
+      "description": "Voxel sandbox game engine",
+      "category": "RPG / Adventure",
+      "homepage": "https://www.minetest.net/"
+    },
+    {
+      "title": "Endless Sky",
+      "slug": "endless-sky",
+      "id": "endless-sky-endless-sky",
+      "repoUrl": "https://github.com/endless-sky/endless-sky",
+      "owner": "endless-sky",
+      "repo": "endless-sky",
+      "description": "Space exploration and combat",
+      "category": "RPG / Adventure",
+      "homepage": "https://endless-sky.github.io/"
+    },
+    {
+      "title": "Unknown Horizons",
+      "slug": "unknown-horizons",
+      "id": "unknown-horizons-unknown-horizons",
+      "repoUrl": "https://github.com/unknown-horizons/unknown-horizons",
+      "owner": "unknown-horizons",
+      "repo": "unknown-horizons",
+      "description": "Economy simulation game",
+      "category": "RPG / Adventure",
+      "homepage": "https://unknown-horizons.org/"
+    },
+    {
+      "title": "2048",
+      "slug": "2048",
+      "id": "gabrielecirulli-2048",
+      "repoUrl": "https://github.com/gabrielecirulli/2048",
+      "owner": "gabrielecirulli",
+      "repo": "2048",
+      "description": "Classic sliding tile puzzle",
+      "category": "Puzzle / Casual",
+      "homepage": "https://play2048.co/"
+    },
+    {
+      "title": "Lichess",
+      "slug": "lichess",
+      "id": "lichess-org-lila",
+      "repoUrl": "https://github.com/lichess-org/lila",
+      "owner": "lichess-org",
+      "repo": "lila",
+      "description": "Free chess server",
+      "category": "Puzzle / Casual",
+      "homepage": "https://lichess.org/"
+    },
+    {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "slug": "simon-tathams-portable-puzzle-collection",
+      "id": "chetwin-puzzles",
+      "repoUrl": "https://github.com/chetwin/puzzles",
+      "owner": "chetwin",
+      "repo": "puzzles",
+      "description": "Collection of puzzle games",
+      "category": "Puzzle / Casual",
+      "homepage": "https://www.chiark.greenend.org.uk/~sgtatham/puzzles/"
+    },
+    {
+      "title": "osu!",
+      "slug": "osu",
+      "id": "ppy-osu",
+      "repoUrl": "https://github.com/ppy/osu",
+      "owner": "ppy",
+      "repo": "osu",
+      "description": "Rhythm game simulator",
+      "category": "Rhythm / Music",
+      "homepage": "https://osu.ppy.sh/"
+    },
+    {
+      "title": "Taisei",
+      "slug": "taisei",
+      "id": "taisei-project-taisei",
+      "repoUrl": "https://github.com/taisei-project/taisei",
+      "owner": "taisei-project",
+      "repo": "taisei",
+      "description": "Touhou Project clone",
+      "category": "Rhythm / Music",
+      "homepage": "https://taisei-project.org/"
+    },
+    {
+      "title": "StepMania",
+      "slug": "stepmania",
+      "id": "stepmania-stepmania",
+      "repoUrl": "https://github.com/stepmania/stepmania",
+      "owner": "stepmania",
+      "repo": "stepmania",
+      "description": "Dance simulation game",
+      "category": "Rhythm / Music",
+      "homepage": "https://www.stepmania.com/"
+    },
+    {
+      "title": "Pixel Dungeon",
+      "slug": "pixel-dungeon",
+      "id": "00-evan-shattered-pixel-dungeon",
+      "repoUrl": "https://github.com/00-Evan/shattered-pixel-dungeon",
+      "owner": "00-Evan",
+      "repo": "shattered-pixel-dungeon",
+      "description": "Traditional roguelike",
+      "category": "Roguelike",
+      "homepage": "https://pixeldungeon.watabou.ru/"
+    },
+    {
+      "title": "Cataclysm: Dark Days Ahead",
+      "slug": "cataclysm-dark-days-ahead",
+      "id": "cleverraven-cataclysm-dda",
+      "repoUrl": "https://github.com/CleverRaven/Cataclysm-DDA",
+      "owner": "CleverRaven",
+      "repo": "Cataclysm-DDA",
+      "description": "Survival roguelike",
+      "category": "Roguelike",
+      "homepage": "https://cataclysmdda.org/"
+    },
+    {
+      "title": "Dwarf Fortress",
+      "slug": "dwarf-fortress",
+      "id": "dfhack-df-structures",
+      "repoUrl": "https://github.com/DFHack/df-structures",
+      "owner": "DFHack",
+      "repo": "df-structures",
+      "description": "Colony simulation",
+      "category": "Roguelike",
+      "homepage": "https://www.bay12games.com/dwarves/"
+    },
+    {
+      "title": "OpenTTD",
+      "slug": "openttd",
+      "id": "openttd-openttd",
+      "repoUrl": "https://github.com/OpenTTD/OpenTTD",
+      "owner": "OpenTTD",
+      "repo": "OpenTTD",
+      "description": "Transport simulation",
+      "category": "Simulation",
+      "homepage": "https://www.openttd.org/"
+    },
+    {
+      "title": "OpenRCT2",
+      "slug": "openrct2",
+      "id": "openrct2-openrct2",
+      "repoUrl": "https://github.com/OpenRCT2/OpenRCT2",
+      "owner": "OpenRCT2",
+      "repo": "OpenRCT2",
+      "description": "Roller coaster simulation",
+      "category": "Simulation",
+      "homepage": "https://openrct2.org/"
+    },
+    {
+      "title": "Warzone 2100",
+      "slug": "warzone-2100",
+      "id": "warzone2100-warzone2100",
+      "repoUrl": "https://github.com/Warzone2100/warzone2100",
+      "owner": "Warzone2100",
+      "repo": "warzone2100",
+      "description": "Post-apocalyptic RTS",
+      "category": "Strategy",
+      "homepage": "https://wz2100.net/"
+    },
+    {
+      "title": "Spring RTS",
+      "slug": "spring-rts",
+      "id": "spring-spring",
+      "repoUrl": "https://github.com/spring/spring",
+      "owner": "spring",
+      "repo": "spring",
+      "description": "Game engine for RTS",
+      "category": "Strategy",
+      "homepage": "https://springrts.com/"
+    },
+    {
+      "title": "MegaGlest",
+      "slug": "megaglest",
+      "id": "megaglest-megaglest-source",
+      "repoUrl": "https://github.com/MegaGlest/megaglest-source",
+      "owner": "MegaGlest",
+      "repo": "megaglest-source",
+      "description": "3D RTS game",
+      "category": "Strategy",
+      "homepage": "https://megaglest.org/"
+    },
+    {
+      "title": "SuperTuxKart",
+      "slug": "supertuxkart",
+      "id": "supertuxkart-stk-code",
+      "repoUrl": "https://github.com/supertuxkart/stk-code",
+      "owner": "supertuxkart",
+      "repo": "stk-code",
+      "description": "3D kart racing",
+      "category": "Racing",
+      "homepage": "https://supertuxkart.net/"
+    },
+    {
+      "title": "Trigger Rally",
+      "slug": "trigger-rally",
+      "id": "trigger-rally-trigger-rally",
+      "repoUrl": "https://github.com/trigger-rally/trigger-rally",
+      "owner": "trigger-rally",
+      "repo": "trigger-rally",
+      "description": "Off-road racing",
+      "category": "Racing",
+      "homepage": "https://trigger-rally.sourceforge.io/"
+    },
+    {
+      "title": "Super Tux",
+      "slug": "super-tux",
+      "id": "supertux-supertux",
+      "repoUrl": "https://github.com/SuperTux/supertux",
+      "owner": "SuperTux",
+      "repo": "supertux",
+      "description": "Side-scrolling platformer",
+      "category": "Platformer",
+      "homepage": "https://supertux.org/"
+    },
+    {
+      "title": "The Battle for Wesnoth",
+      "slug": "the-battle-for-wesnoth",
+      "id": "wesnoth-wesnoth",
+      "repoUrl": "https://github.com/wesnoth/wesnoth",
+      "owner": "wesnoth",
+      "repo": "wesnoth",
+      "description": "Turn-based strategy",
+      "category": "Platformer",
+      "homepage": "https://www.wesnoth.org/"
+    },
+    {
+      "title": "ScummVM",
+      "slug": "scummvm",
+      "id": "scummvm-scummvm",
+      "repoUrl": "https://github.com/scummvm/scummvm",
+      "owner": "scummvm",
+      "repo": "scummvm",
+      "description": "Game engine emulator",
+      "category": "Emulation / Game Engines",
+      "homepage": "https://www.scummvm.org/"
+    },
+    {
+      "title": "Dolphin Emulator",
+      "slug": "dolphin-emulator",
+      "id": "dolphin-emu-dolphin",
+      "repoUrl": "https://github.com/dolphin-emu/dolphin",
+      "owner": "dolphin-emu",
+      "repo": "dolphin",
+      "description": "GameCube/Wii emulator",
+      "category": "Emulation / Game Engines",
+      "homepage": "https://dolphin-emu.org/"
+    },
+    {
+      "title": "Godot Engine",
+      "slug": "godot-engine",
+      "id": "godotengine-godot",
+      "repoUrl": "https://github.com/godotengine/godot",
+      "owner": "godotengine",
+      "repo": "godot",
+      "description": "Game engine",
+      "category": "Emulation / Game Engines",
+      "homepage": "https://godotengine.org/"
+    },
+    {
+      "title": "Freeciv",
+      "slug": "freeciv",
+      "id": "freeciv-freeciv",
+      "repoUrl": "https://github.com/freeciv/freeciv",
+      "owner": "freeciv",
+      "repo": "freeciv",
+      "description": "Civilization-style strategy",
+      "category": "Other Notable Games",
+      "homepage": "https://www.freeciv.org/"
+    },
+    {
+      "title": "FreeOrion",
+      "slug": "freeorion",
+      "id": "freeorion-freeorion",
+      "repoUrl": "https://github.com/freeorion/freeorion",
+      "owner": "freeorion",
+      "repo": "freeorion",
+      "description": "4X strategy game",
+      "category": "Other Notable Games",
+      "homepage": "https://www.freeorion.org/"
+    },
+    {
+      "title": "Hedgewars",
+      "slug": "hedgewars",
+      "id": "hedgewars-hedgewars",
+      "repoUrl": "https://github.com/hedgewars/hedgewars",
+      "owner": "hedgewars",
+      "repo": "hedgewars",
+      "description": "Worms-style artillery game",
+      "category": "Other Notable Games",
+      "homepage": "https://www.hedgewars.org/"
+    },
+    {
+      "title": "OpenRA",
+      "slug": "openra",
+      "id": "openra-openra",
+      "repoUrl": "https://github.com/OpenRA/OpenRA",
+      "owner": "OpenRA",
+      "repo": "OpenRA",
+      "description": "Classic RTS engine",
+      "category": "Other Notable Games",
+      "homepage": "https://www.openra.net/"
+    },
+    {
+      "title": "Red Eclipse",
+      "slug": "red-eclipse",
+      "id": "redeclipse-base",
+      "repoUrl": "https://github.com/redeclipse/base",
+      "owner": "redeclipse",
+      "repo": "base",
+      "description": "FPS based on Cube 2",
+      "category": "Other Notable Games",
+      "homepage": "https://redeclipse.net/"
+    },
+    {
+      "title": "Xonotic",
+      "slug": "xonotic",
+      "id": "xonotic-xonotic",
+      "repoUrl": "https://github.com/Xonotic/xonotic",
+      "owner": "Xonotic",
+      "repo": "xonotic",
+      "description": "Fast-paced arena FPS",
+      "category": "Other Notable Games",
+      "homepage": "https://xonotic.org/"
+    },
+    {
+      "title": "Urban Terror",
+      "slug": "urban-terror",
+      "id": "frozensand-urbanterror4",
+      "repoUrl": "https://github.com/FrozenSand/UrbanTerror4",
+      "owner": "FrozenSand",
+      "repo": "UrbanTerror4",
+      "description": "Tactical FPS",
+      "category": "Other Notable Games",
+      "homepage": "https://www.urbanterror.info/"
+    },
+    {
+      "title": "Ryzom Core",
+      "slug": "ryzom-core",
+      "id": "ryzom-ryzomcore",
+      "repoUrl": "https://github.com/ryzom/ryzomcore",
+      "owner": "ryzom",
+      "repo": "ryzomcore",
+      "description": "MMORPG engine",
+      "category": "MMORPG / Online",
+      "homepage": "https://ryzom.com/"
+    }
+  ],
+  "skipped": [
+    {
+      "reason": "No title found",
+      "line": "(see parser logs)",
+      "count": 78
+    },
+    {
+      "reason": "No GitHub URL found",
+      "line": "(see parser logs)",
+      "count": 1
+    },
+    {
+      "reason": "Homepage without source",
+      "line": "(see parser logs)",
+      "count": 1
+    },
+    {
+      "reason": "Duplicate repository",
+      "line": "(see parser logs)",
+      "count": 1
+    }
+  ]
+}

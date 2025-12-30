@@ -1,0 +1,20 @@
+# Cloudflare Pages Local Development Variables
+# Copy this file to .dev.vars and fill in your values
+# @see https://developers.cloudflare.com/pages/functions/bindings/#interact-with-your-bindings-locally
+
+# =============================================================================
+# Required
+# =============================================================================
+
+# GitHub Personal Access Token for API requests
+# Create at: https://github.com/settings/tokens
+# Required scopes: public_repo (read-only access to public repositories)
+GITHUB_TOKEN=your_github_token_here
+
+# =============================================================================
+# Optional
+# =============================================================================
+
+# OpenAI API Key for AI-generated game reviews
+# Create at: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here

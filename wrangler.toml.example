@@ -1,0 +1,68 @@
+# Cloudflare Pages Configuration for Open Source Games
+# @see https://developers.cloudflare.com/pages/framework-guides/nextjs/
+#
+# USAGE:
+# 1. Copy this file to wrangler.toml
+# 2. Replace YOUR_* placeholders with actual values
+# 3. NEVER commit wrangler.toml to git (it's in .gitignore)
+
+name = "open-source-games"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Pages project settings
+pages_build_output_dir = ".vercel/output/static"
+
+# =============================================================================
+# D1 Database Binding
+# =============================================================================
+# Create with: wrangler d1 create open-source-games-db
+[[d1_databases]]
+binding = "DB"
+database_name = "open-source-games-db"
+database_id = "YOUR_D1_DATABASE_ID"
+
+# =============================================================================
+# KV Namespace Binding (for caching)
+# =============================================================================
+# Create with: wrangler kv:namespace create CACHE
+[[kv_namespaces]]
+binding = "CACHE"
+id = "YOUR_KV_NAMESPACE_ID"
+
+# =============================================================================
+# R2 Bucket Binding (for game images)
+# =============================================================================
+# Create with: wrangler r2 bucket create open-source-games-images
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "open-source-games-images"
+
+# =============================================================================
+# Environment Variables
+# =============================================================================
+# Secrets should be set via:
+# - Local: wrangler pages secret put <SECRET_NAME> --local
+# - Production: wrangler pages secret put <SECRET_NAME>
+# Required secrets:
+# - GITHUB_TOKEN (for fetching game data)
+# - ADMIN_API_KEY (for image upload API)
+# - OPENAI_API_KEY (optional, for AI features)
+
+# Public environment variables
+[vars]
+NEXT_PUBLIC_SITE_URL = "https://open-source-games.pages.dev"
+NEXT_PUBLIC_GITHUB_URL = "https://github.com/YOUR_USERNAME/open-source-games"
+NEXT_PUBLIC_TWITTER_URL = "https://twitter.com"
+
+# =============================================================================
+# Preview Environment
+# =============================================================================
+[env.preview]
+vars = { NEXT_PUBLIC_SITE_URL = "https://preview.open-source-games.pages.dev", NEXT_PUBLIC_GITHUB_URL = "https://github.com/YOUR_USERNAME/open-source-games", NEXT_PUBLIC_TWITTER_URL = "https://twitter.com" }
+
+# =============================================================================
+# Production Environment
+# =============================================================================
+[env.production]
+vars = { NEXT_PUBLIC_SITE_URL = "https://open-source-games.pages.dev", NEXT_PUBLIC_GITHUB_URL = "https://github.com/YOUR_USERNAME/open-source-games", NEXT_PUBLIC_TWITTER_URL = "https://twitter.com" }

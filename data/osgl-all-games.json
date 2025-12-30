@@ -1,0 +1,5335 @@
+{
+  "fetchedAt": "2025-12-29T10:14:04.363Z",
+  "source": "OSGL (https://trilarion.github.io/opensourcegames/)",
+  "totalGames": 592,
+  "games": [
+    {
+      "title": "2006scape",
+      "slug": "2006scape",
+      "githubUrl": "https://github.com/2006-Scape/2006Scape/releases",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "2048",
+      "slug": "2048",
+      "githubUrl": "https://github.com/tpcstld/2048.git @add",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["JavaScript", "Java"]
+    },
+    {
+      "title": "2048 Python",
+      "slug": "2048_python",
+      "githubUrl": "https://github.com/yangshun/2048-python",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "2048-in-terminal",
+      "slug": "2048-in-terminal",
+      "githubUrl": "https://github.com/alewmoose/2048-in-terminal",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "54321",
+      "slug": "54321",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "A Dark Room",
+      "slug": "a_dark_room",
+      "githubUrl": "https://github.com/doublespeakgames/adarkroom",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Abuse 1996",
+      "slug": "abuse_1996",
+      "githubUrl": "https://github.com/antrad/Abuse_1996/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C++", "Lisp"]
+    },
+    {
+      "title": "AdaDoom3",
+      "slug": "adadoom3",
+      "githubUrl": "https://github.com/AdaDoom3/AdaDoom3",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "AdaGate",
+      "slug": "adagate",
+      "githubUrl": "https://github.com/fastrgv/AdaGate",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "AdaVenture",
+      "slug": "adaventure",
+      "githubUrl": "https://github.com/fastrgv/AdaVenture",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "Age of Empires Free Software Remake",
+      "slug": "age_of_empires_free_software_remake",
+      "githubUrl": "https://github.com/FolkertVanVerseveld/aoe",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Aisleriot",
+      "slug": "aisleriot",
+      "githubUrl": "https://github.com/GNOME/aisleriot/releases",
+      "genre": "arcade",
+      "tags": ["arcade", "cards"],
+      "status": "mature",
+      "languages": ["C", "Scheme"]
+    },
+    {
+      "title": "Akhenaten",
+      "slug": "akhenaten",
+      "githubUrl": "https://github.com/dalerank/Akhenaten/releases",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Aleph One",
+      "slug": "aleph_one",
+      "githubUrl": "https://github.com/Aleph-One-Marathon/alephone/wiki",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++", "Lua"]
+    },
+    {
+      "title": "Alex vs Bus: The Race",
+      "slug": "alex_vs_bus_the_race",
+      "githubUrl": "https://github.com/M374LX/alexvsbus",
+      "genre": "arcade",
+      "tags": ["arcade", "platform"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Ambermoon.net",
+      "slug": "ambermoonnet",
+      "githubUrl": "https://github.com/pyrdacor/ambermoon.net",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Amnesia: A Machine for Pigs",
+      "slug": "amnesia_a_machine_for_pigs",
+      "githubUrl": "https://github.com/FrictionalGames/AmnesiaAMachineForPigs",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Amnesia: The Dark Descent",
+      "slug": "amnesia_the_dark_descent",
+      "githubUrl": "https://github.com/FrictionalGames/AmnesiaTheDarkDescent",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Angry Birds in Python",
+      "slug": "angry_birds_in_python",
+      "githubUrl": "https://github.com/estevaofon/angry-birds-python",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "antiyoy",
+      "slug": "antiyoy",
+      "githubUrl": "https://github.com/yiotro/Antiyoy",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Anuto",
+      "slug": "anuto",
+      "githubUrl": "https://github.com/mjaun/android-anuto",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "aquastax",
+      "slug": "aquastax",
+      "githubUrl": "https://github.com/LongSteve/aquastax",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "active",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Ares Dogfighter",
+      "slug": "ares_dogfighter",
+      "githubUrl": "https://github.com/SteveSmith16384/AresDogfighter",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Argentum Online",
+      "slug": "argentum_online",
+      "githubUrl": "https://github.com/argentumonline",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["Visual Basic"]
+    },
+    {
+      "title": "ativayeban",
+      "slug": "ativayeban",
+      "githubUrl": "https://github.com/Nebuleon/ativayeban",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Atrinik",
+      "slug": "atrinik",
+      "githubUrl": "https://github.com/atrinik",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "Augustus",
+      "slug": "augustus",
+      "githubUrl": "https://github.com/Keriew/augustus",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Awkaster",
+      "slug": "awkaster",
+      "githubUrl": "https://github.com/TheMozg/awk-raycaster",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["AWK"]
+    },
+    {
+      "title": "Azimuth",
+      "slug": "azimuth",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action", "platform"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "back-to-nature-c64-remake",
+      "slug": "back-to-nature-c64-remake",
+      "githubUrl": "https://github.com/gborp/back-to-nature-c64-remake",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "BaKGL",
+      "slug": "bakgl",
+      "githubUrl": "https://github.com/xavieran/BaKGL",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Banania",
+      "slug": "banania",
+      "githubUrl": "https://github.com/BenjaminRi/Banania",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Barony",
+      "slug": "barony",
+      "githubUrl": "https://github.com/TurningWheel/Barony",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Battleround",
+      "slug": "battleround",
+      "githubUrl": "https://github.com/Leejjon/Battleround",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Beat Feet",
+      "slug": "beat_feet",
+      "githubUrl": "https://github.com/beat-feet/beat-feet",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Kotlin"]
+    },
+    {
+      "title": "BitRiot",
+      "slug": "bitriot",
+      "githubUrl": "https://github.com/VenKamikaze/",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Blackvoxel",
+      "slug": "blackvoxel",
+      "githubUrl": "https://github.com/Blackvoxel/Blackvoxel",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "BlakedAwesomenaughts",
+      "slug": "blakedawesomenaughts",
+      "githubUrl": "https://github.com/zombieman1041/BlakedAwesomenaughts",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["JavaScript", "PHP"]
+    },
+    {
+      "title": "Blinken",
+      "slug": "blinken",
+      "githubUrl": "https://github.com/KDE/blinken",
+      "genre": "educational",
+      "tags": ["educational"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Blob Wars : Attrition",
+      "slug": "blob_wars_attrition",
+      "githubUrl": "https://github.com/stephenjsweeney/blobwarsAttrition",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Block Puzzle Stone Wars",
+      "slug": "block_puzzle_stone_wars",
+      "githubUrl": "https://github.com/SoltauFintel/blockpuzzle",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Blue Nebula",
+      "slug": "blue_nebula",
+      "githubUrl": "https://github.com/blue-nebula/release/releases",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Blutfest",
+      "slug": "blutfest",
+      "githubUrl": "https://github.com/hepfnepf/Blutfest",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "BobBall",
+      "slug": "bobball",
+      "githubUrl": "https://github.com/bobthekingofegypt/BobBall",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Boohu",
+      "slug": "boohu",
+      "githubUrl": "https://github.com/anaseto/boohu.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["Go"]
+    },
+    {
+      "title": "Bos Wars",
+      "slug": "bos_wars",
+      "githubUrl": "https://github.com/OneSleepyDev/boswars_osd_archive.git @add",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Boulder Dash",
+      "slug": "boulder_dash",
+      "githubUrl": "https://github.com/valeriansaliou/boulder-dash",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "brainblast",
+      "slug": "brainblast",
+      "githubUrl": "https://github.com/Zitrax/brainblast",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "unknown",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "bratwurst",
+      "slug": "bratwurst",
+      "githubUrl": "https://github.com/sabetts/bratwurst",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["Lisp"]
+    },
+    {
+      "title": "Breakout-VR",
+      "slug": "breakout-vr",
+      "githubUrl": "https://github.com/marksteelz3/Atari-VR---Breakout",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "BrowserQuest",
+      "slug": "browserquest",
+      "githubUrl": "https://github.com/nenuadrian/BrowserQuest.git @add",
+      "genre": "adventure",
+      "tags": ["adventure", "role playing"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "BStone",
+      "slug": "bstone",
+      "githubUrl": "https://github.com/bibendovsky/bstone/releases",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "BZFlag",
+      "slug": "bzflag",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "c64-nuclearreaction",
+      "slug": "c64-nuclearreaction",
+      "githubUrl": "https://github.com/maikmerten/c64-nuclearreaction",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C", "Assembly"]
+    },
+    {
+      "title": "Cabbages and Kings",
+      "slug": "cabbages_and_kings",
+      "githubUrl": "https://github.com/Mekire/cabbages-and-kings",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Candy Memory",
+      "slug": "candy_memory",
+      "githubUrl": "https://github.com/tube42/candymem",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Cannonball",
+      "slug": "cannonball",
+      "githubUrl": "https://github.com/djyt/cannonball/wiki",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Canta",
+      "slug": "canta",
+      "githubUrl": "https://github.com/spiderbit/canta",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "canvas-tetris",
+      "slug": "canvas-tetris",
+      "githubUrl": "https://github.com/dionyziz/canvas-tetris",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Captain Blood",
+      "slug": "captain_blood",
+      "githubUrl": "https://github.com/storm-devs/captain-blood",
+      "genre": "action",
+      "tags": ["action", "adventure"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Carnage3D",
+      "slug": "carnage3d",
+      "githubUrl": "https://github.com/codenamecpp/carnage3d",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Catacomb",
+      "slug": "catacomb",
+      "githubUrl": "https://github.com/CatacombGames/Catacomb",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "Catacomb 3-D",
+      "slug": "catacomb_3-d",
+      "githubUrl": "https://github.com/CatacombGames/CatacombAbyss.git @add",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "CatacombGL",
+      "slug": "catacombgl",
+      "githubUrl": "https://github.com/ArnoAnsems/CatacombGL",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "CatacombSDL",
+      "slug": "catacombsdl",
+      "githubUrl": "https://github.com/Blzut3/CatacombSDL",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Catan Dice Game",
+      "slug": "catan_dice_game",
+      "githubUrl": "https://github.com/Bubu/android-dice-game",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Catch The Cat",
+      "slug": "catch_the_cat",
+      "githubUrl": "https://github.com/ganlvtech/phaser-catch-the-cat",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["TypeScript", "JavaScript"]
+    },
+    {
+      "title": "CaveCube",
+      "slug": "cavecube",
+      "githubUrl": "https://github.com/PQCraft/CaveCube",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "CAVEZ of PHEAR",
+      "slug": "cavez_of_phear",
+      "githubUrl": "https://github.com/AMDmi3/cavezofphear",
+      "genre": "action",
+      "tags": ["action", "arcade"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "CCCP",
+      "slug": "cccp",
+      "githubUrl": "https://github.com/DataRealms/CCOSS",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Chariot",
+      "slug": "chariot",
+      "githubUrl": "https://github.com/ChariotEngine/Chariot",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Chocolate Duke3D",
+      "slug": "chocolate_duke3d",
+      "githubUrl": "https://github.com/fabiensanglard/chocolate_duke3D",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "Choria",
+      "slug": "choria",
+      "githubUrl": "https://github.com/jazztickets/choria",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++", "C", "Lua"]
+    },
+    {
+      "title": "Chronoshift",
+      "slug": "chronoshift",
+      "githubUrl": "https://github.com/TheAssemblyArmada/Chronoshift",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Citybound",
+      "slug": "citybound",
+      "githubUrl": "https://github.com/citybound/citybound/releases",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["Rust", "JavaScript"]
+    },
+    {
+      "title": "Civ2-clone",
+      "slug": "civ2-clone",
+      "githubUrl": "https://github.com/axx0/Civ2-clone",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Classic Blades of Exile",
+      "slug": "classic_blades_of_exile",
+      "githubUrl": "https://github.com/calref/cboe",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "CnC Remastered Collection",
+      "slug": "cnc_remastered_collection",
+      "githubUrl": "https://github.com/electronicarts/CnC_Remastered_Collection",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++", "C#"]
+    },
+    {
+      "title": "Colditz Escape",
+      "slug": "colditz_escape",
+      "githubUrl": "https://github.com/aperture-software/colditz-escape/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Coloris",
+      "slug": "coloris",
+      "githubUrl": "https://github.com/DanijelAskov/coloris",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Colossal Cave Adventure",
+      "slug": "colossal_cave_adventure",
+      "githubUrl": "https://github.com/brandon-rhodes/python-adventure",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Columns",
+      "slug": "columns",
+      "githubUrl": "https://github.com/dgcor/Columns",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Command Series Engine",
+      "slug": "command_series_engine",
+      "githubUrl": "https://github.com/pwiecz/command_series",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["Go"]
+    },
+    {
+      "title": "Commander Genius",
+      "slug": "commander_genius",
+      "githubUrl": "https://github.com/albertz/commandergenius.git @add",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Commander Wars",
+      "slug": "commander_wars",
+      "githubUrl": "https://github.com/Robosturm/Commander_Wars",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C++", "JavaScript"]
+    },
+    {
+      "title": "CommonDrops",
+      "slug": "commondrops",
+      "githubUrl": "https://github.com/Drasky-Vanderhoff/CommonDrops",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Conquest",
+      "slug": "conquest",
+      "githubUrl": "https://github.com/jontrulson/conquest",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Construo",
+      "slug": "construo",
+      "githubUrl": "https://github.com/construo-game/construo",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "CorsixTH",
+      "slug": "corsixth",
+      "githubUrl": "https://github.com/CorsixTH/CorsixTH/releases",
+      "genre": "remake",
+      "tags": ["remake", "simulation", "strategy"],
+      "status": "mature",
+      "languages": ["Lua", "C++"]
+    },
+    {
+      "title": "Cortex Command Community Project",
+      "slug": "cortex_command_community_project",
+      "githubUrl": "https://github.com/cortex-command-community/Cortex-Command-Community-Project/releases",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++", "C", "Lua"]
+    },
+    {
+      "title": "Cosmo-Engine",
+      "slug": "cosmo-engine",
+      "githubUrl": "https://github.com/yuv422/cosmo-engine",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "CoTerminalApps",
+      "slug": "coterminalapps",
+      "githubUrl": "https://github.com/fastrgv/CoTerminalApps",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "Cubosphere",
+      "slug": "cubosphere",
+      "githubUrl": "https://github.com/cubosphere/cubosphere-code",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "active",
+      "languages": ["C", "C++", "Lua"]
+    },
+    {
+      "title": "Curse of War",
+      "slug": "curse_of_war",
+      "githubUrl": "https://github.com/a-nikolaev/curseofwar/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Cytopia",
+      "slug": "cytopia",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Daggerfall Unity",
+      "slug": "daggerfall_unity",
+      "githubUrl": "https://github.com/Interkarma/daggerfall-unity/releases",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Dangerous Dave 2: Modification Edition",
+      "slug": "dangerous_dave_2_modification_edition",
+      "githubUrl": "https://github.com/Harchvertelol/Dangerous-Dave-2-Modification-Edition",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "DarkFO",
+      "slug": "darkfo",
+      "githubUrl": "https://github.com/darkf/darkfo",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["TypeScript", "JavaScript", "Python"]
+    },
+    {
+      "title": "Data Storm",
+      "slug": "data_storm",
+      "githubUrl": "https://github.com/haroldo-ok/datastorm",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Dawn",
+      "slug": "dawn",
+      "githubUrl": "https://github.com/iamCode/Dawn/wiki",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["C++", "Lua"]
+    },
+    {
+      "title": "Deathlord Relorded",
+      "slug": "deathlord_relorded",
+      "githubUrl": "https://github.com/hasseily/Deathlord-Relorded",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Defendo",
+      "slug": "defendo",
+      "githubUrl": "https://github.com/HassanHeydariNasab/defendo",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["GDScript", "PHP"]
+    },
+    {
+      "title": "Delaford",
+      "slug": "delaford",
+      "githubUrl": "https://github.com/delaford/game",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["JavaScript", "PHP"]
+    },
+    {
+      "title": "DemiGod",
+      "slug": "demigod",
+      "githubUrl": "https://github.com/MattMatt0240/DemiGod",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Descent 3",
+      "slug": "descent_3",
+      "githubUrl": "https://github.com/kevinbentley/Descent3",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Destination Sol",
+      "slug": "destination_sol",
+      "githubUrl": "https://github.com/MovingBlocks/DestinationSol",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Dethrace",
+      "slug": "dethrace",
+      "githubUrl": "https://github.com/dethrace-labs/dethrace",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Devilution",
+      "slug": "devilution",
+      "githubUrl": "https://github.com/diasurgical/devilution",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "DevilutionX",
+      "slug": "devilutionx",
+      "githubUrl": "https://github.com/diasurgical/devilutionX",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "DGEngine",
+      "slug": "dgengine",
+      "githubUrl": "https://github.com/dgcor/DGEngine/wiki",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "dhewm3",
+      "slug": "dhewm3",
+      "githubUrl": "https://github.com/dhewm/dhewm3/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Diablerie",
+      "slug": "diablerie",
+      "githubUrl": "https://github.com/mofr/Diablerie",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "diablo-js",
+      "slug": "diablo-js",
+      "githubUrl": "https://github.com/mitallast/diablo-js",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java", "JavaScript"]
+    },
+    {
+      "title": "Diabolika",
+      "slug": "diabolika",
+      "githubUrl": "https://github.com/dgcor/Diabolika",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "donut",
+      "slug": "donut",
+      "githubUrl": "https://github.com/plowteam/donut",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "DOOM Retro",
+      "slug": "doom_retro",
+      "githubUrl": "https://github.com/bradharding/doomretro/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "DOOM-iOS",
+      "slug": "doom-ios",
+      "githubUrl": "https://github.com/id-Software/DOOM-iOS",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Double Damnation",
+      "slug": "double_damnation",
+      "githubUrl": "https://github.com/TheYellowArchitect/doubledamnation",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "doukutsu-rs",
+      "slug": "doukutsu-rs",
+      "githubUrl": "https://github.com/doukutsu-rs/doukutsu-rs",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "dRally",
+      "slug": "drally",
+      "githubUrl": "https://github.com/urxp/drally",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["Assembly", "C"]
+    },
+    {
+      "title": "DroidZebra",
+      "slug": "droidzebra",
+      "githubUrl": "https://github.com/alkom/droidzebra",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C", "Java"]
+    },
+    {
+      "title": "Duck Hunt JS",
+      "slug": "duck_hunt_js",
+      "githubUrl": "https://github.com/MattSurabian/DuckHunt-JS",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Duck Marines",
+      "slug": "duck_marines",
+      "githubUrl": "https://github.com/SimonLarsen/duckmarines/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "DUGA",
+      "slug": "duga",
+      "githubUrl": "https://github.com/MaxwellSalmon/DUGA/",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Duke 2 Reconstructed",
+      "slug": "duke_2_reconstructed",
+      "githubUrl": "https://github.com/lethal-guitar/Duke2Reconstructed",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Dungeon",
+      "slug": "dungeon",
+      "githubUrl": "https://github.com/bernardosulzbach/dungeon/releases",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Dungeon Hero",
+      "slug": "dungeon_hero",
+      "githubUrl": "https://github.com/guillaume-gouchon/dungeonhero",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Dungeon Monkey Eternal",
+      "slug": "dungeon_monkey_eternal",
+      "githubUrl": "https://github.com/jwvhewitt/dmeternal",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Dungeon of Quake",
+      "slug": "dungeon_of_quake",
+      "githubUrl": "https://github.com/jakubtomsu/dungeon-of-quake",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "active",
+      "languages": ["Odin", "Pascal"]
+    },
+    {
+      "title": "Dungeon Quest",
+      "slug": "dungeon_quest",
+      "githubUrl": "https://github.com/guillaume-gouchon/dungeonquest",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Dust Racing 2D",
+      "slug": "dust_racing_2d",
+      "githubUrl": "https://github.com/juzzlin/DustRacing2D/releases",
+      "genre": "remake",
+      "tags": ["remake", "sports"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "DynaDungeons",
+      "slug": "dynadungeons",
+      "githubUrl": "https://github.com/akien-mga/dynadungeons",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Earth 2140 on OpenRA",
+      "slug": "earth_2140_on_openra",
+      "githubUrl": "https://github.com/michaeldgg2/OpenE2140",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "EDGE",
+      "slug": "edge",
+      "githubUrl": "https://github.com/3dfxdev/EDGE",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Emilia Pinball",
+      "slug": "emilia_pinball",
+      "githubUrl": "https://github.com/sergiomb2/pinball.git @add",
+      "genre": "simulation",
+      "tags": ["simulation", "sports"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "EmptyEpsilon",
+      "slug": "emptyepsilon",
+      "githubUrl": "https://github.com/daid/SeriousProton.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C", "C++", "Lua"]
+    },
+    {
+      "title": "Enchanted Fortress",
+      "slug": "enchanted_fortress",
+      "githubUrl": "https://github.com/subchannel13/EnchantedFortress",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Endless Sky",
+      "slug": "endless_sky",
+      "githubUrl": "https://github.com/endless-sky/endless-sky/releases",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "EnTT Pacman",
+      "slug": "entt_pacman",
+      "githubUrl": "https://github.com/indianakernick/EnTT-Pacman",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "EPOH",
+      "slug": "epoh",
+      "githubUrl": "https://github.com/tautvilas/epoh",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "EternalWinterWars",
+      "slug": "eternalwinterwars",
+      "githubUrl": "https://github.com/hinogi/eternalwinterwars",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Etterna",
+      "slug": "etterna",
+      "githubUrl": "https://github.com/etternagame/etterna/releases",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "active",
+      "languages": ["C", "C++", "Lua"]
+    },
+    {
+      "title": "Executive Man",
+      "slug": "executive_man",
+      "githubUrl": "https://github.com/CamHenlin/ExecutiveMan",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Exolon",
+      "slug": "exolon",
+      "githubUrl": "https://github.com/newagebegins/exolon",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "ezQuake",
+      "slug": "ezquake",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Falling Time",
+      "slug": "falling_time",
+      "githubUrl": "https://github.com/cxong/FallingTime",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Fallout 2 Community Edition",
+      "slug": "fallout_2_community_edition",
+      "githubUrl": "https://github.com/alexbatalov/fallout2-ce",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Fallout Community Edition",
+      "slug": "fallout_community_edition",
+      "githubUrl": "https://github.com/alexbatalov/fallout1-ce",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Faur",
+      "slug": "faur",
+      "githubUrl": "https://github.com/alxm/faur",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "active",
+      "languages": ["C", "Python", "C++"]
+    },
+    {
+      "title": "Fish Rings for Android",
+      "slug": "fish_rings_for_android",
+      "githubUrl": "https://github.com/VelbazhdSoftwareLLC/FishRingsForAndroid",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Flappy Cow",
+      "slug": "flappy_cow",
+      "githubUrl": "https://github.com/cubei/FlappyCow",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "FOnline",
+      "slug": "fonline",
+      "githubUrl": "https://github.com/rotators/play-fonline-data.git @add",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C", "C++", "C#"]
+    },
+    {
+      "title": "Forsaken",
+      "slug": "forsaken",
+      "githubUrl": "https://github.com/ForsakenX/forsaken/wiki",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Foursies",
+      "slug": "foursies",
+      "githubUrl": "https://github.com/andybalaam/foursies",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["Elm", "JavaScript"]
+    },
+    {
+      "title": "FPC Atomic",
+      "slug": "fpc_atomic",
+      "githubUrl": "https://github.com/PascalCorpsman/fpc_atomic",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "FQuake3",
+      "slug": "fquake3",
+      "githubUrl": "https://github.com/TIHan/FQuake3",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["F#", "C"]
+    },
+    {
+      "title": "fRaBs",
+      "slug": "frabs",
+      "githubUrl": "https://github.com/Xenoveritas/abuse.git @add",
+      "genre": "action",
+      "tags": ["action", "adventure"],
+      "status": "mature",
+      "languages": ["Lisp", "C++", "C"]
+    },
+    {
+      "title": "freeaoe",
+      "slug": "freeaoe",
+      "githubUrl": "https://github.com/sandsmark/freeaoe",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "FreeBlocks",
+      "slug": "freeblocks",
+      "githubUrl": "https://github.com/dorkster/freeblocks",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "unknown",
+      "languages": ["C", "Java"]
+    },
+    {
+      "title": "Freeciv-web",
+      "slug": "freeciv-web",
+      "githubUrl": "https://github.com/freeciv/freeciv-web#live-servers",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["JavaScript", "Java", "Python"]
+    },
+    {
+      "title": "FrEee",
+      "slug": "freee",
+      "githubUrl": "https://github.com/ekolis/FrEee/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "FreeGemas",
+      "slug": "freegemas",
+      "githubUrl": "https://github.com/JoseTomasTocino/freegemas",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "freegish",
+      "slug": "freegish",
+      "githubUrl": "https://github.com/freegish/freegish",
+      "genre": "arcade",
+      "tags": ["arcade", "platform", "remake"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "FreeHeroes",
+      "slug": "freeheroes",
+      "githubUrl": "https://github.com/mapron/FreeHeroes",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "FreeHL",
+      "slug": "freehl",
+      "githubUrl": "https://github.com/eukara/freehl",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Freeserf",
+      "slug": "freeserf",
+      "githubUrl": "https://github.com/freeserf/freeserf/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Freeserf.net",
+      "slug": "freeserfnet",
+      "githubUrl": "https://github.com/Pyrdacor/freeserf.net",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "FreeSims",
+      "slug": "freesims",
+      "githubUrl": "https://github.com/francot514/FreeSims",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Frozen Bubble",
+      "slug": "frozen_bubble",
+      "githubUrl": "https://github.com/videogameboy76/frozenbubbleandroid",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Perl", "C++"]
+    },
+    {
+      "title": "Future Cop: MIT",
+      "slug": "future_cop_mit",
+      "githubUrl": "https://github.com/Ghoster738/Future-Cop-MIT",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "GDHexGrid",
+      "slug": "gdhexgrid",
+      "githubUrl": "https://github.com/romlok/godot-gdhexgrid",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Ghostly",
+      "slug": "ghostly",
+      "githubUrl": "https://github.com/sandsmark/aicompo-tg17",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Gift Grabber",
+      "slug": "gift_grabber",
+      "githubUrl": "https://github.com/ceva24/gift-grabber",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "GJID",
+      "slug": "gjid",
+      "githubUrl": "https://github.com/msharov/gjid",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "GL TRON",
+      "slug": "gl_tron",
+      "githubUrl": "https://github.com/Chluverman/android-gltron",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "GLKeeper (GrimLands Keeper)",
+      "slug": "glkeeper_grimlands_keeper",
+      "githubUrl": "https://github.com/codenamecpp/GLKeeper",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "glParchis",
+      "slug": "glparchis",
+      "githubUrl": "https://github.com/turulomio/glparchis",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "GLSMAC",
+      "slug": "glsmac",
+      "githubUrl": "https://github.com/afwbkbc/glsmac",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "GLSpeed",
+      "slug": "glspeed",
+      "githubUrl": "https://github.com/jval1972/Speed#downloads",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["Pascal", "C"]
+    },
+    {
+      "title": "GLXY",
+      "slug": "glxy",
+      "githubUrl": "https://github.com/KaeruCT/GLXY",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Gnomescroll",
+      "slug": "gnomescroll",
+      "githubUrl": "https://github.com/Gnomescroll/Gnomescroll",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "unknown",
+      "languages": ["C", "C++", "Python"]
+    },
+    {
+      "title": "Goblin Camp",
+      "slug": "goblin_camp",
+      "githubUrl": "https://github.com/y2s82/goblin_camp.git @add",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["C++", "Python"]
+    },
+    {
+      "title": "Gorc",
+      "slug": "gorc",
+      "githubUrl": "https://github.com/jdmclark/",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Gravity Defied",
+      "slug": "gravity_defied",
+      "githubUrl": "https://github.com/evgenyzinoviev/gravitydefied",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Griefly",
+      "slug": "griefly",
+      "githubUrl": "https://github.com/griefly",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C++", "Go", "Python"]
+    },
+    {
+      "title": "gta2net",
+      "slug": "gta2net",
+      "githubUrl": "https://github.com/peon501/GTA2.NET",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "GZDoom",
+      "slug": "gzdoom",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "H-Craft Championship",
+      "slug": "h-craft_championship",
+      "githubUrl": "https://github.com/mzeilfelder/media_hc1.git @add",
+      "genre": "sports",
+      "tags": ["sports"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Harmonist: Dayoriah Clan Infiltration",
+      "slug": "harmonist_dayoriah_clan_infiltration",
+      "githubUrl": "https://github.com/anaseto/harmonist.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["Go"]
+    },
+    {
+      "title": "Harris",
+      "slug": "harris",
+      "githubUrl": "https://github.com/ec429/harris",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "Harvest Moon 2.0",
+      "slug": "harvest_moon_20",
+      "githubUrl": "https://github.com/Kenny-Haworth/Harvest-Moon-2.0",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Hase",
+      "slug": "hase",
+      "githubUrl": "https://github.com/theZiz/hase",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Head over Heels",
+      "slug": "head_over_heels",
+      "githubUrl": "https://github.com/dougmencken/HeadOverHeels",
+      "genre": "action",
+      "tags": ["action", "adventure", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Hedgewars",
+      "slug": "hedgewars",
+      "githubUrl": "https://github.com/hedgewars/hw.git @add",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Lua", "C", "C++", "Pascal", "Haskell"]
+    },
+    {
+      "title": "Helion",
+      "slug": "helion",
+      "githubUrl": "https://github.com/Helion-Engine/Helion",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Heroes of Civilizations",
+      "slug": "heroes_of_civilizations",
+      "githubUrl": "https://github.com/francot514/CivHeroes",
+      "genre": "cards",
+      "tags": ["cards", "strategy"],
+      "status": "active",
+      "languages": ["C++", "C#"]
+    },
+    {
+      "title": "Hexwar",
+      "slug": "hexwar",
+      "githubUrl": "https://github.com/mgfreshour/hexwar",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["Ruby", "JavaScript"]
+    },
+    {
+      "title": "HHexen",
+      "slug": "hhexen",
+      "githubUrl": "https://github.com/sezero/hheretic.git @add https://git.code.sf.net/p/hhexen/hhexen @add",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Hocoslamfy",
+      "slug": "hocoslamfy",
+      "githubUrl": "https://github.com/Nebuleon/hocoslamfy",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Honey Town",
+      "slug": "honey_town",
+      "githubUrl": "https://github.com/Greentwip/HoneyTown",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Hopson-Arcade",
+      "slug": "hopson-arcade",
+      "githubUrl": "https://github.com/Hopson97/Hopson-Arcade",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Hovertank 3D",
+      "slug": "hovertank_3d",
+      "githubUrl": "https://github.com/FlatRockSoft/Hovertank3D",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++", "Assembly"]
+    },
+    {
+      "title": "HTML5 Pacman",
+      "slug": "html5_pacman",
+      "githubUrl": "https://github.com/daleharvey/pacman",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Hurrican",
+      "slug": "hurrican",
+      "githubUrl": "https://github.com/HurricanGame/Hurrican/releases",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Hypersomnia",
+      "slug": "hypersomnia",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Ilarion",
+      "slug": "ilarion",
+      "githubUrl": "https://github.com/Illarion-eV/Illarion-Server.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++", "Java", "Lua"]
+    },
+    {
+      "title": "Illarion",
+      "slug": "illarion",
+      "githubUrl": "https://github.com/Illarion-eV",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++", "Java", "Lua"]
+    },
+    {
+      "title": "Inexor",
+      "slug": "inexor",
+      "githubUrl": "https://github.com/inexorgame-obsolete/deprecated-cube-engine-inexor.git @add",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++", "JavaScript"]
+    },
+    {
+      "title": "Infinite Tux",
+      "slug": "infinite_tux",
+      "githubUrl": "https://github.com/qbancoffee/infinite-tux",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "IO Reboot",
+      "slug": "io_reboot",
+      "githubUrl": "https://github.com/omarchehab98/io-reboot",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "iortcw",
+      "slug": "iortcw",
+      "githubUrl": "https://github.com/iortcw/iortcw",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "irrlamb",
+      "slug": "irrlamb",
+      "githubUrl": "https://github.com/jazztickets/irrlamb",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Isolmoa",
+      "slug": "isolmoa",
+      "githubUrl": "https://github.com/valos/Isolmoa",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["JavaScript", "Java"]
+    },
+    {
+      "title": "Isometric-Minesweeper",
+      "slug": "isometric-minesweeper",
+      "githubUrl": "https://github.com/Bit-Sahil04/Isometric-Minesweeper",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Ithaka Board Game",
+      "slug": "ithaka_board_game",
+      "githubUrl": "https://github.com/VelbazhdSoftwareLLC/IthakaBoardGame",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Jactorio",
+      "slug": "jactorio",
+      "githubUrl": "https://github.com/jaihysc/Jactorio",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "javascript-E.T.",
+      "slug": "javascript-et",
+      "githubUrl": "https://github.com/FranciscoG/javascript-E.T.",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "unknown",
+      "languages": ["JavaScript", "Assembly"]
+    },
+    {
+      "title": "Javelin",
+      "slug": "javelin",
+      "githubUrl": "https://github.com/tukkek/javelin/releases",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "JediAcademyLinux",
+      "slug": "jediacademylinux",
+      "githubUrl": "https://github.com/xLAva/JediAcademyLinux",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Jet-Story",
+      "slug": "jet-story",
+      "githubUrl": "https://github.com/adamenkov/jet-story",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["Assembly", "C", "C++"]
+    },
+    {
+      "title": "JetPac",
+      "slug": "jetpac",
+      "githubUrl": "https://github.com/ian-wigley/JetPac",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "jewelthief",
+      "slug": "jewelthief",
+      "githubUrl": "https://github.com/cdetamble/jewelthief",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "jsFO",
+      "slug": "jsfo",
+      "githubUrl": "https://github.com/ajxs/jsFO",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "unknown",
+      "languages": ["JavaScript", "Python"]
+    },
+    {
+      "title": "JSkat",
+      "slug": "jskat",
+      "githubUrl": "https://github.com/b0n541/jskat/releases",
+      "genre": "cards",
+      "tags": ["cards", "role playing"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Julius",
+      "slug": "julius",
+      "githubUrl": "https://github.com/bvschaik/julius",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Jump Don't Die",
+      "slug": "jump_dont_die",
+      "githubUrl": "https://github.com/danirod/jumpdontdie",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Just another Tetris™ clone",
+      "slug": "just_another_tetris_clone",
+      "githubUrl": "https://github.com/spypunk/",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Kai ‘Opua",
+      "slug": "kai_opua",
+      "githubUrl": "https://github.com/collinhover/kaiopua",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Kartering",
+      "slug": "kartering",
+      "githubUrl": "https://github.com/sandsmark/kart",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "Keen Dreams",
+      "slug": "keen_dreams",
+      "githubUrl": "https://github.com/keendreams/keen",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C", "Assembly", "C++"]
+    },
+    {
+      "title": "Killer Crates",
+      "slug": "killer_crates",
+      "githubUrl": "https://github.com/SteveSmith16384/KillerCrates",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "King under the Mountain",
+      "slug": "king_under_the_mountain",
+      "githubUrl": "https://github.com/rossturner/king-under-the-mountain",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "KnightOfWor",
+      "slug": "knightofwor",
+      "githubUrl": "https://github.com/Sanguinik/KnightOfWor",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Koi Farm",
+      "slug": "koi_farm",
+      "githubUrl": "https://github.com/jobtalle/Koi",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Kroz",
+      "slug": "kroz",
+      "githubUrl": "https://github.com/tangentforks/kroz",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "KungFoo Barracuda",
+      "slug": "kungfoo_barracuda",
+      "githubUrl": "https://github.com/poseidn/KungFoo",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "ladder",
+      "slug": "ladder",
+      "githubUrl": "https://github.com/mengstr/ladder",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["Go"]
+    },
+    {
+      "title": "Land of Fire",
+      "slug": "land_of_fire",
+      "githubUrl": "https://github.com/landoffire/lof-tmwa-client-data.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["Script", "PHP"]
+    },
+    {
+      "title": "Laser Kombat",
+      "slug": "laser_kombat",
+      "githubUrl": "https://github.com/sharkwouter/laserkombat",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "LastTry",
+      "slug": "lasttry",
+      "githubUrl": "https://github.com/egordorichev/LastTry",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "LBA2 Remake",
+      "slug": "lba2_remake",
+      "githubUrl": "https://github.com/LBALab/lba2remake",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "active",
+      "languages": ["TypeScript"]
+    },
+    {
+      "title": "LegionGame",
+      "slug": "legiongame",
+      "githubUrl": "https://github.com/bsoja/LegionGame",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Lexica",
+      "slug": "lexica",
+      "githubUrl": "https://github.com/lexica/lexica",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Liberation Circuit",
+      "slug": "liberation_circuit",
+      "githubUrl": "https://github.com/linleyh/liberation-circuit/",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Libre Pinball",
+      "slug": "libre_pinball",
+      "githubUrl": "https://github.com/Calinou/libre-pinball",
+      "genre": "sports",
+      "tags": ["sports"],
+      "status": "unknown",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "LibreMines",
+      "slug": "libremines",
+      "githubUrl": "https://github.com/Bollos00/LibreMines/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "LibreQuake",
+      "slug": "librequake",
+      "githubUrl": "https://github.com/MissLavender-LQ/LibreQuake",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Liquid Wars",
+      "slug": "liquid_wars",
+      "githubUrl": "https://github.com/xenris/liquid-wars-android",
+      "genre": "simulation",
+      "tags": ["simulation", "strategy"],
+      "status": "mature",
+      "languages": ["C++", "Java"]
+    },
+    {
+      "title": "Little Big Adventure 1 - Engine source code",
+      "slug": "little_big_adventure_1-engine_source_code",
+      "githubUrl": "https://github.com/LBALab/lba1-classic-community",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "active",
+      "languages": ["Assembly", "C"]
+    },
+    {
+      "title": "Little Big Adventure 2 - Engine source code",
+      "slug": "little_big_adventure_2-engine_source_code",
+      "githubUrl": "https://github.com/LBALab/lba2-classic-community",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "active",
+      "languages": ["Assembly", "C++"]
+    },
+    {
+      "title": "Lix",
+      "slug": "lix",
+      "githubUrl": "https://github.com/SimonN/LixD/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "active",
+      "languages": ["D", "C++"]
+    },
+    {
+      "title": "Lords of the Fey",
+      "slug": "lords_of_the_fey",
+      "githubUrl": "https://github.com/apsillers/lords-of-the-fey",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Lose Your Marbles",
+      "slug": "lose_your_marbles",
+      "githubUrl": "https://github.com/eguneys/lose-your-marbles",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "LOZ",
+      "slug": "loz",
+      "githubUrl": "https://github.com/aldonunez/Loz",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C++", "C#"]
+    },
+    {
+      "title": "lttp-phaser",
+      "slug": "lttp-phaser",
+      "githubUrl": "https://github.com/englercj/lttp",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "unknown",
+      "languages": ["TypeScript", "JavaScript"]
+    },
+    {
+      "title": "LZWolf",
+      "slug": "lzwolf",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "M.A.R.S.",
+      "slug": "mars",
+      "githubUrl": "https://github.com/jwrdegoede/M.A.R.S./releases",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "unknown",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "M.E.W.L.",
+      "slug": "mewl",
+      "githubUrl": "https://github.com/LionsPhil/mewl",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "MafiaUnity",
+      "slug": "mafiaunity",
+      "githubUrl": "https://github.com/MafiaHub/MafiaUnity",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Magical Life",
+      "slug": "magical_life",
+      "githubUrl": "https://github.com/TBye101/MagicalLife",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Magnetar",
+      "slug": "magnetar",
+      "githubUrl": "https://github.com/joankaradimov/Magnetar",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Manic Digger",
+      "slug": "manic_digger",
+      "githubUrl": "https://github.com/manicdigger/manicdigger/releases",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Marble Madness 3d",
+      "slug": "marble_madness_3d",
+      "githubUrl": "https://github.com/davidcavazos/marble-madness-3d",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Marble Marcher",
+      "slug": "marble_marcher",
+      "githubUrl": "https://github.com/WAUthethird/Marble-Marcher-Community-Edition/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Mario Objects",
+      "slug": "mario_objects",
+      "githubUrl": "https://github.com/jazzyjester/Mario-Game",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Mechanized Assault & eXploration Reloaded",
+      "slug": "mechanized_assault_exploration_reloaded",
+      "githubUrl": "https://github.com/maxr-dot-org/maxr/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "MechCommander 2 Omnitech",
+      "slug": "mechcommander_2_omnitech",
+      "githubUrl": "https://github.com/Echelon9/mechcommander2-open",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Memory Game",
+      "slug": "memory_game",
+      "githubUrl": "https://github.com/sromku/memory-game",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Meridian 59",
+      "slug": "meridian_59",
+      "githubUrl": "https://github.com/OpenMeridian/Meridian59.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Mice Men: Remix",
+      "slug": "mice_men_remix",
+      "githubUrl": "https://github.com/synkarius/micemen",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Mighty Knight",
+      "slug": "mighty_knight",
+      "githubUrl": "https://github.com/alketii/mighty-knight",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["PHP", "GDScript"]
+    },
+    {
+      "title": "Minecraft",
+      "slug": "minecraft",
+      "githubUrl": "https://github.com/benkyd/Minecraft",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "MineCraft-One-Week-Challenge",
+      "slug": "minecraft-one-week-challenge",
+      "githubUrl": "https://github.com/Hopson97/MineCraft-One-Week-Challenge",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "minecraft-weekend",
+      "slug": "minecraft-weekend",
+      "githubUrl": "https://github.com/jdah/minecraft-weekend",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Minesweeper (in C)",
+      "slug": "minesweeper_in_c",
+      "githubUrl": "https://github.com/brenns10/minesweeper",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "minesweeper-rs",
+      "slug": "minesweeper-rs",
+      "githubUrl": "https://github.com/robmikh/minesweeper-rs",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Minetest Game",
+      "slug": "minetest_game",
+      "githubUrl": "https://github.com/minetest/minetest_game/",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "Minilens",
+      "slug": "minilens",
+      "githubUrl": "https://github.com/KOBUGE-Games/minilens/releases",
+      "genre": "platform",
+      "tags": ["platform", "puzzle"],
+      "status": "mature",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Minima",
+      "slug": "minima",
+      "githubUrl": "https://github.com/Feneric/Minima/releases",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "MiniPacman",
+      "slug": "minipacman",
+      "githubUrl": "https://github.com/fastrgv/MiniPacman",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "Moonbase Assault",
+      "slug": "moonbase_assault",
+      "githubUrl": "https://github.com/SteveSmith16384/MoonbaseAssault",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Mr. Rescue",
+      "slug": "mr_rescue",
+      "githubUrl": "https://github.com/SimonLarsen/mrrescue/releases",
+      "genre": "arcade",
+      "tags": ["arcade", "platform"],
+      "status": "mature",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "MUSoSu",
+      "slug": "musosu",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Nanosaur",
+      "slug": "nanosaur",
+      "githubUrl": "https://github.com/jorio/Nanosaur/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Nanosaur II: Hatchling",
+      "slug": "nanosaur_ii_hatchling",
+      "githubUrl": "https://github.com/jorio/Nanosaur2/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "NetHack",
+      "slug": "nethack",
+      "githubUrl": "https://github.com/Vanilla-NetHack/NetHack-3.4.3.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "NetMauMau",
+      "slug": "netmaumau",
+      "githubUrl": "https://github.com/velnias75/NetMauMau",
+      "genre": "cards",
+      "tags": ["cards", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Neverball",
+      "slug": "neverball",
+      "githubUrl": "https://github.com/Neverball/neverball-docs.git @add",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "NFSIISE",
+      "slug": "nfsiise",
+      "githubUrl": "https://github.com/zaps166/NFSIISE",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Nikki and the Robots",
+      "slug": "nikki_and_the_robots",
+      "githubUrl": "https://github.com/nikki-and-the-robots/nikki",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Haskell", "Lisp"]
+    },
+    {
+      "title": "Nitrosharp",
+      "slug": "nitrosharp",
+      "githubUrl": "https://github.com/CommitteeOfZero/nitrosharp",
+      "genre": "remake",
+      "tags": ["remake", "visual novel"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "NLarn",
+      "slug": "nlarn",
+      "githubUrl": "https://github.com/nlarn/nlarn/releases",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C", "Lua"]
+    },
+    {
+      "title": "Nodes-of-Yesod",
+      "slug": "nodes-of-yesod",
+      "githubUrl": "https://github.com/ian-wigley/Nodes-of-Yesod",
+      "genre": "arcade",
+      "tags": ["arcade", "platform", "remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "noiz2-droid",
+      "slug": "noiz2-droid",
+      "githubUrl": "https://github.com/alistairrutherford/noiz2-droid",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "NorseWorld: Ragnarok",
+      "slug": "norseworld_ragnarok",
+      "githubUrl": "https://github.com/Serg-Norseman/NorseWorld-Ragnarok",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "NOVA PINBALL",
+      "slug": "nova_pinball",
+      "githubUrl": "https://github.com/wesleywerner/nova-pinball/releases",
+      "genre": "sports",
+      "tags": ["sports"],
+      "status": "unknown",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "NullpoMino",
+      "slug": "nullpomino",
+      "githubUrl": "https://github.com/NullpoMino/NullpoMino",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "NXEngine",
+      "slug": "nxengine",
+      "githubUrl": "https://github.com/EXL/NXEngine/releases",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "NXEngine-evo",
+      "slug": "nxengine-evo",
+      "githubUrl": "https://github.com/nxengine/nxengine-evo",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "nXtank",
+      "slug": "nxtank",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["Python", "C++"]
+    },
+    {
+      "title": "OceanPop",
+      "slug": "oceanpop",
+      "githubUrl": "https://github.com/sharkwouter/oceanpop/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Omega",
+      "slug": "omega",
+      "githubUrl": "https://github.com/movitto/omega",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["JavaScript", "Ruby"]
+    },
+    {
+      "title": "One Hour One Life",
+      "slug": "one_hour_one_life",
+      "githubUrl": "https://github.com/jasonrohrer/OneLife/",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C", "C++", "PHP"]
+    },
+    {
+      "title": "Open Apocalypse",
+      "slug": "open_apocalypse",
+      "githubUrl": "https://github.com/OpenApoc/OpenApoc/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Open Flood",
+      "slug": "open_flood",
+      "githubUrl": "https://github.com/GunshipPenguin/open_flood",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Open Imperium Galactica",
+      "slug": "open_imperium_galactica",
+      "githubUrl": "https://github.com/akarnokd/open-ig/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Open Kick-Off",
+      "slug": "open_kick-off",
+      "githubUrl": "https://github.com/ssenegas/kickoff",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Open Rodent's Revenge",
+      "slug": "open_rodents_revenge",
+      "githubUrl": "https://github.com/pierreyoda/o2r",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Open Tibia",
+      "slug": "open_tibia",
+      "githubUrl": "https://github.com/opentibia",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Open Zelda",
+      "slug": "open_zelda",
+      "githubUrl": "https://github.com/openzelda/openzelda-source",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Open76",
+      "slug": "open76",
+      "githubUrl": "https://github.com/r1sc/Open76",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenArena Engine",
+      "slug": "openarena_engine",
+      "githubUrl": "https://github.com/suijingfeng/vkOpenArena.git @add",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenAWE",
+      "slug": "openawe",
+      "githubUrl": "https://github.com/OpenAWE-Project/OpenAWE",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "openblack",
+      "slug": "openblack",
+      "githubUrl": "https://github.com/openblack/openblack",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenBlok",
+      "slug": "openblok",
+      "githubUrl": "https://github.com/mmatyas/openblok",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenBound",
+      "slug": "openbound",
+      "githubUrl": "https://github.com/WickedPeanuts/OpenBound",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenCiv1",
+      "slug": "openciv1",
+      "githubUrl": "https://github.com/rajko-horvat/OpenCiv1/wiki",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenClaw",
+      "slug": "openclaw",
+      "githubUrl": "https://github.com/pjasicek/OpenClaw",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenCrystalCaves",
+      "slug": "opencrystalcaves",
+      "githubUrl": "https://github.com/gurka/OpenCrystalCaves",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenD2",
+      "slug": "opend2",
+      "githubUrl": "https://github.com/eezstreet/OpenD2",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "openDarkEngine",
+      "slug": "opendarkengine",
+      "githubUrl": "https://github.com/volca02/openDarkEngine",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "opendf",
+      "slug": "opendf",
+      "githubUrl": "https://github.com/kcat/opendf",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "openDOW",
+      "slug": "opendow",
+      "githubUrl": "https://github.com/rofl0r/openDOW",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenDR",
+      "slug": "opendr",
+      "githubUrl": "https://github.com/drogoganor/OpenDR",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenDrakan",
+      "slug": "opendrakan",
+      "githubUrl": "https://github.com/Zalasus/opendrakan",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenDUNE",
+      "slug": "opendune",
+      "githubUrl": "https://github.com/OpenDUNE/OpenDUNE",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenEnroth",
+      "slug": "openenroth",
+      "githubUrl": "https://github.com/OpenEnroth/OpenEnroth",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenFire",
+      "slug": "openfire",
+      "githubUrl": "https://github.com/Last-Minute-Creations/openFire",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenFNaF",
+      "slug": "openfnaf",
+      "githubUrl": "https://github.com/MotoLegacy/OpenFNaF",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenGOAL",
+      "slug": "opengoal",
+      "githubUrl": "https://github.com/open-goal/jak-project/releases",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "active",
+      "languages": ["Lisp", "C++"]
+    },
+    {
+      "title": "OpenGoo",
+      "slug": "opengoo",
+      "githubUrl": "https://github.com/Mandarancio/OpenGOO",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenHoW",
+      "slug": "openhow",
+      "githubUrl": "https://github.com/TalonBraveInfo/OpenHoW",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenHV",
+      "slug": "openhv",
+      "githubUrl": "https://github.com/OpenHV/OpenHV/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C#", "Lua"]
+    },
+    {
+      "title": "OpenITG",
+      "slug": "openitg",
+      "githubUrl": "https://github.com/openitg/openitg/wiki",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenJKDF2",
+      "slug": "openjkdf2",
+      "githubUrl": "https://github.com/shinyquagsire23/OpenJKDF2",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenKrush",
+      "slug": "openkrush",
+      "githubUrl": "https://github.com/IceReaper/OpenKrush",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenLara",
+      "slug": "openlara",
+      "githubUrl": "https://github.com/XProger/OpenLara",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "OpenLoco",
+      "slug": "openloco",
+      "githubUrl": "https://github.com/OpenLoco/OpenLoco",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenMC2",
+      "slug": "openmc2",
+      "githubUrl": "https://github.com/OpenMC2/OpenMC2",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenMoM",
+      "slug": "openmom",
+      "githubUrl": "https://github.com/Jakz/openmom",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenMOO2",
+      "slug": "openmoo2",
+      "githubUrl": "https://github.com/pjotrligthart/openmoo2-hg-mirror",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "openMSX",
+      "slug": "openmsx",
+      "githubUrl": "https://github.com/openMSX/openMSX/releases",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenNefia",
+      "slug": "opennefia",
+      "githubUrl": "https://github.com/OpenNefia/OpenNefia",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C#", "Lua"]
+    },
+    {
+      "title": "OpenNitemare3D",
+      "slug": "opennitemare3d",
+      "githubUrl": "https://github.com/BBQGiraffe/OpenNitemare3D",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenNotrium",
+      "slug": "opennotrium",
+      "githubUrl": "https://github.com/verhoevenv/OpenNotrium",
+      "genre": "action",
+      "tags": ["action", "puzzle", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenOMF",
+      "slug": "openomf",
+      "githubUrl": "https://github.com/omf2097/openomf/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenRaider",
+      "slug": "openraider",
+      "githubUrl": "https://github.com/xythobuz/OpenRaider",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "OpenSC2K",
+      "slug": "opensc2k",
+      "githubUrl": "https://github.com/nicholas-ochoa/OpenSC2K",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "OpenSoccer",
+      "slug": "opensoccer",
+      "githubUrl": "https://github.com/delight-im/OpenSoccer",
+      "genre": "sports",
+      "tags": ["sports", "strategy"],
+      "status": "active",
+      "languages": ["PHP"]
+    },
+    {
+      "title": "OpenSolomonsKey",
+      "slug": "opensolomonskey",
+      "githubUrl": "https://github.com/mdodis/OpenSolomonsKey",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenSpades",
+      "slug": "openspades",
+      "githubUrl": "https://github.com/yvt/openspades/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C", "C++", "AngelScript"]
+    },
+    {
+      "title": "OpenSR",
+      "slug": "opensr",
+      "githubUrl": "https://github.com/ObKo/OpenSR",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "OpenSupaplex",
+      "slug": "opensupaplex",
+      "githubUrl": "https://github.com/sergiou87/open-supaplex",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenTPW",
+      "slug": "opentpw",
+      "githubUrl": "https://github.com/ThemeParkWorld/OpenTPW",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenTriad",
+      "slug": "opentriad",
+      "githubUrl": "https://github.com/benjaminfoo/OpenTriad",
+      "genre": "cards",
+      "tags": ["cards", "remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "OpenTS2",
+      "slug": "opents2",
+      "githubUrl": "https://github.com/LazyDuchess/OpenTS2",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenTyrian",
+      "slug": "opentyrian",
+      "githubUrl": "https://github.com/opentyrian/opentyrian",
+      "genre": "action",
+      "tags": ["action", "arcade", "remake"],
+      "status": "unknown",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenTyrian2000",
+      "slug": "opentyrian2000",
+      "githubUrl": "https://github.com/KScl/opentyrian2000",
+      "genre": "action",
+      "tags": ["action", "arcade", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "OpenVice",
+      "slug": "openvice",
+      "githubUrl": "https://github.com/clashbyte/openvice",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OpenWar",
+      "slug": "openwar",
+      "githubUrl": "https://github.com/andreas-jonsson/openwar",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["Go", "C"]
+    },
+    {
+      "title": "OpenWebSoccer-Sim",
+      "slug": "openwebsoccer-sim",
+      "githubUrl": "https://github.com/ihofmann/open-websoccer",
+      "genre": "sports",
+      "tags": ["sports", "strategy"],
+      "status": "mature",
+      "languages": ["PHP"]
+    },
+    {
+      "title": "OpenYandere",
+      "slug": "openyandere",
+      "githubUrl": "https://github.com/Evilpersonwithnosoul/OpenYandere",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "OPMon",
+      "slug": "opmon",
+      "githubUrl": "https://github.com/OpMonTeam/OpMon-Data.git @add",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++", "GDScript"]
+    },
+    {
+      "title": "osu!",
+      "slug": "osu",
+      "githubUrl": "https://github.com/ppy/osu/releases",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Other-Life",
+      "slug": "other-life",
+      "githubUrl": "https://github.com/gregoryfenton/other-life.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Overgrowth",
+      "slug": "overgrowth",
+      "githubUrl": "https://github.com/WolfireGames/overgrowth",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Pac Go",
+      "slug": "pac_go",
+      "githubUrl": "https://github.com/danicat/pacgo",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Go"]
+    },
+    {
+      "title": "Pachi",
+      "slug": "pachi",
+      "githubUrl": "https://github.com/pasky/pachi/releases",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "Pacman",
+      "slug": "pacman",
+      "githubUrl": "https://github.com/ebuc99/pacman",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "active",
+      "languages": ["C++", "Script"]
+    },
+    {
+      "title": "Pacman (Rust)",
+      "slug": "pacman_rust",
+      "githubUrl": "https://github.com/denix666/pacman",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Pacman 吃豆游戏",
+      "slug": "pacman_",
+      "githubUrl": "https://github.com/mumuy/pacman",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Panel Attack",
+      "slug": "panel_attack",
+      "githubUrl": "https://github.com/sharpobject/panel-attack",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "PaperCraft",
+      "slug": "papercraft",
+      "githubUrl": "https://github.com/Rudloff/PaperCraft",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Paratrooper",
+      "slug": "paratrooper",
+      "githubUrl": "https://github.com/denix666/paratrooper",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Performous",
+      "slug": "performous",
+      "githubUrl": "https://github.com/performous/performous/releases",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Physics Platformer",
+      "slug": "physics_platformer",
+      "githubUrl": "https://github.com/SteveSmith16384/PhysicsPlatformer",
+      "genre": "arcade",
+      "tags": ["arcade", "platform"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Physics Spacewar",
+      "slug": "physics_spacewar",
+      "githubUrl": "https://github.com/SteveSmith16384/PhysicsSpaceWar",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "PianOli",
+      "slug": "pianoli",
+      "githubUrl": "https://github.com/nicolasbrailo/PianOli",
+      "genre": "music",
+      "tags": ["music"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Pink Pony",
+      "slug": "pink_pony",
+      "githubUrl": "https://github.com/ginkgo/pink-pony/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "PipePanic",
+      "slug": "pipepanic",
+      "githubUrl": "https://github.com/rnauber/pipepanic-android",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java", "JavaScript"]
+    },
+    {
+      "title": "Pixel Dungeon",
+      "slug": "pixel_dungeon",
+      "githubUrl": "https://github.com/watabou/PD-classes.git @add",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Planet Conquest",
+      "slug": "planet_conquest",
+      "githubUrl": "https://github.com/dftec-es/planetcon",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Planet Lander",
+      "slug": "planet_lander",
+      "githubUrl": "https://github.com/PeiP-2018-Work-Nantes-DUT-INFO/Planet-Lander-Lunar-Lander-with-Pygame",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Plee the Bear",
+      "slug": "plee_the_bear",
+      "githubUrl": "https://github.com/j-jorge/bear.git @add",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "unknown",
+      "languages": ["Lisp", "C++", "Scheme", "C"]
+    },
+    {
+      "title": "Poink",
+      "slug": "poink",
+      "githubUrl": "https://github.com/moechofe/lowresnx-poink",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Basic"]
+    },
+    {
+      "title": "Point & Hit",
+      "slug": "point_hit",
+      "githubUrl": "https://github.com/raatmarien/Point-and-Hit",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Poland can into Space",
+      "slug": "poland_can_into_space",
+      "githubUrl": "https://github.com/JSandomierz/pcis",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "pq2",
+      "slug": "pq2",
+      "githubUrl": "https://github.com/nbollom/pq2",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Prescription Wars",
+      "slug": "prescription_wars",
+      "githubUrl": "https://github.com/gtheilman/RxWars",
+      "genre": "educational",
+      "tags": ["educational", "remake", "simulation", "strategy"],
+      "status": "mature",
+      "languages": ["ColdFusion", "JavaScript"]
+    },
+    {
+      "title": "progress-quest",
+      "slug": "progress-quest",
+      "githubUrl": "https://github.com/sandsmark/progress-quest",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C++", "Python"]
+    },
+    {
+      "title": "Project Alice",
+      "slug": "project_alice",
+      "githubUrl": "https://github.com/schombert/Project-Alice/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Project Dollhouse",
+      "slug": "project_dollhouse",
+      "githubUrl": "https://github.com/Afr0Games/Project-Dollhouse",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Project Porcupine",
+      "slug": "project_porcupine",
+      "githubUrl": "https://github.com/OrderOfThePorcupine/ProjectPorcupine",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Project-Uranium-Godot",
+      "slug": "project-uranium-godot",
+      "githubUrl": "https://github.com/acedogblast/Project-Uranium-Godot",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Project: Starfighter",
+      "slug": "project_starfighter",
+      "githubUrl": "https://github.com/pr-starfighter/starfighter/releases",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "PsyDoom",
+      "slug": "psydoom",
+      "githubUrl": "https://github.com/BodbDearg/PsyDoom",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Puzzle Moppet",
+      "slug": "puzzle_moppet",
+      "githubUrl": "https://github.com/karjonas/puzzle-moppet",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "PyChess",
+      "slug": "pychess",
+      "githubUrl": "https://github.com/pychess/pychess/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Python", "TypeScript"]
+    },
+    {
+      "title": "pycraft",
+      "slug": "pycraft",
+      "githubUrl": "https://github.com/itsapi/pycraft",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "mature",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "Pygame---Alien-Invasion",
+      "slug": "pygame-alien-invasion",
+      "githubUrl": "https://github.com/Anthonymcqueen21/Pygame---Alien-Invasion",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Python Kye",
+      "slug": "python_kye",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "arcade",
+      "tags": ["arcade", "puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Quake 2",
+      "slug": "quake_2",
+      "githubUrl": "https://github.com/id-Software/Quake-2",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "Assembly"]
+    },
+    {
+      "title": "Quake II Rerelease",
+      "slug": "quake_ii_rerelease",
+      "githubUrl": "https://github.com/id-Software/quake2-rerelease-dll",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Quake3e",
+      "slug": "quake3e",
+      "githubUrl": "https://github.com/ec-/Quake3e",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Quick Curver",
+      "slug": "quick_curver",
+      "githubUrl": "https://github.com/vimpostor/quickcurver",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "R.E.L.I.V.E.",
+      "slug": "relive",
+      "githubUrl": "https://github.com/AliveTeam/alive_reversing/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "RacerJS",
+      "slug": "racerjs",
+      "githubUrl": "https://github.com/onaluf/RacerJS",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Rapid Dominance",
+      "slug": "rapid_dominance",
+      "githubUrl": "https://github.com/wenta/rapid-dominance",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["TypeScript"]
+    },
+    {
+      "title": "Raptor",
+      "slug": "raptor",
+      "githubUrl": "https://github.com/skynettx/raptor",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Raptor: Call of the Shadows",
+      "slug": "raptor_call_of_the_shadows",
+      "githubUrl": "https://github.com/aroldanju/raptor-call-of-the-shadows",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "RaumBaller",
+      "slug": "raumballer",
+      "githubUrl": "https://github.com/KaeruCT/RaumBaller",
+      "genre": "action",
+      "tags": ["action", "arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Raze",
+      "slug": "raze",
+      "githubUrl": "https://github.com/ZDoom/Raze",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "re-private-eye",
+      "slug": "re-private-eye",
+      "githubUrl": "https://github.com/neuromancer/re-private-eye",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Reconstruction of Super ZZT",
+      "slug": "reconstruction_of_super_zzt",
+      "githubUrl": "https://github.com/asiekierka/reconstruction-of-super-zzt",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "Reconstruction of ZZT",
+      "slug": "reconstruction_of_zzt",
+      "githubUrl": "https://github.com/asiekierka/reconstruction-of-zzt",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "Recursive Runner",
+      "slug": "recursive_runner",
+      "githubUrl": "https://github.com/SoupeauCaillou/recursive-runner",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "REDriver2",
+      "slug": "redriver2",
+      "githubUrl": "https://github.com/OpenDriver2/REDRIVER2",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "ReflectionHLE",
+      "slug": "reflectionhle",
+      "githubUrl": "https://github.com/ReflectionHLE/ReflectionHLE",
+      "genre": "action",
+      "tags": ["action", "platform", "remake"],
+      "status": "mature",
+      "languages": ["C", "Lua"]
+    },
+    {
+      "title": "REGoth",
+      "slug": "regoth",
+      "githubUrl": "https://github.com/REGoth-project/REGoth/wiki",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Reliquarium",
+      "slug": "reliquarium",
+      "githubUrl": "https://github.com/fastrgv/Reliquarium",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "remc2",
+      "slug": "remc2",
+      "githubUrl": "https://github.com/turican0/remc2",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "REminiscence / REinforced",
+      "slug": "reminiscence_reinforced",
+      "githubUrl": "https://github.com/chermenin/REminiscence",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "reone",
+      "slug": "reone",
+      "githubUrl": "https://github.com/seedhartha/reone/",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Return to the Roots",
+      "slug": "return_to_the_roots",
+      "githubUrl": "https://github.com/Return-To-The-Roots/s25client.git @add",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Rigs of Rods",
+      "slug": "rigs_of_rods",
+      "githubUrl": "https://github.com/RigsOfRods",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["C", "C++", "AngelScript"]
+    },
+    {
+      "title": "Riiablo",
+      "slug": "riiablo",
+      "githubUrl": "https://github.com/collinsmith/riiablo",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "rlvm",
+      "slug": "rlvm",
+      "githubUrl": "https://github.com/eglaysher/rlvm/releases",
+      "genre": "remake",
+      "tags": ["remake", "visual novel"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Roguish",
+      "slug": "roguish",
+      "githubUrl": "https://github.com/CamHenlin/Roguish",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Room for Change",
+      "slug": "room_for_change",
+      "githubUrl": "https://github.com/antionio/game-off-2013",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Rot Magus",
+      "slug": "rot_magus",
+      "githubUrl": "https://github.com/cxong/MagusPreservation.git @add",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "active",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Roton",
+      "slug": "roton",
+      "githubUrl": "https://github.com/SaxxonPike/roton",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Rott94",
+      "slug": "rott94",
+      "githubUrl": "https://github.com/h4mu/rott94",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "rottexpr",
+      "slug": "rottexpr",
+      "githubUrl": "https://github.com/LTCHIPS/rottexpr",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "RPG Tactical Fantasy Game",
+      "slug": "rpg_tactical_fantasy_game",
+      "githubUrl": "https://github.com/Grimmys/rpg_tactical_fantasy_game",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "RPG-X",
+      "slug": "rpg-x",
+      "githubUrl": "https://github.com/UberGames/rpgxEF/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "rsc-c",
+      "slug": "rsc-c",
+      "githubUrl": "https://github.com/2003scape/rsc-c",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "RufasCube",
+      "slug": "rufascube",
+      "githubUrl": "https://github.com/fastrgv/RufasCube",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "RufasSlider",
+      "slug": "rufasslider",
+      "githubUrl": "https://github.com/fastrgv/RufasSlider",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "RufasSwap",
+      "slug": "rufasswap",
+      "githubUrl": "https://github.com/fastrgv/RufasSwap",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "RuneLite",
+      "slug": "runelite",
+      "githubUrl": "https://github.com/runelite/launcher/releases",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Ryzom Core",
+      "slug": "ryzom_core",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++", "PHP"]
+    },
+    {
+      "title": "SanAndreasUnity",
+      "slug": "sanandreasunity",
+      "githubUrl": "https://github.com/GTA-ASM/SanAndreasUnity",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "sccopter",
+      "slug": "sccopter",
+      "githubUrl": "https://github.com/fr0zi/sccopter",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Scorched Moon",
+      "slug": "scorched_moon",
+      "githubUrl": "https://github.com/Scorched-Moon",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Scrabble3D",
+      "slug": "scrabble3d",
+      "githubUrl": "https://github.com/Scrabble3D/3.1.git @add",
+      "genre": "board",
+      "tags": ["board", "strategy"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SCSharp",
+      "slug": "scsharp",
+      "githubUrl": "https://github.com/toshok/scsharp",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Sea-Wolf",
+      "slug": "sea-wolf",
+      "githubUrl": "https://github.com/DanJP2016/Sea-Wolf",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "sensitive-js",
+      "slug": "sensitive-js",
+      "githubUrl": "https://github.com/bylexus/sensitive-js",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Serious Engine",
+      "slug": "serious_engine",
+      "githubUrl": "https://github.com/Croteam-official/Serious-Engine",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Serious Sam Android",
+      "slug": "serious_sam_android",
+      "githubUrl": "https://github.com/aarcangeli/Serious-Sam-Android",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Settlers III remake",
+      "slug": "settlers_iii_remake",
+      "githubUrl": "https://github.com/jsettlers/settlers-remake",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Seven Kingdoms: Ancient Adversaries",
+      "slug": "seven_kingdoms_ancient_adversaries",
+      "githubUrl": "https://github.com/the3dfxdude/7kaa/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Shadowgrounds",
+      "slug": "shadowgrounds",
+      "githubUrl": "https://github.com/vayerx/shadowgrounds",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "shiromino",
+      "slug": "shiromino",
+      "githubUrl": "https://github.com/shiromino/shiromino",
+      "genre": "arcade",
+      "tags": ["arcade", "puzzle"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Shockolate",
+      "slug": "shockolate",
+      "githubUrl": "https://github.com/Interrupt/systemshock",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Signus: The Artefact Wars",
+      "slug": "signus_the_artefact_wars",
+      "githubUrl": "https://github.com/signus-game/signus",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Simitone",
+      "slug": "simitone",
+      "githubUrl": "https://github.com/riperiperi/Simitone",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Simon Tatham's Portable Puzzle Collection",
+      "slug": "simon_tathams_portable_puzzle_collection",
+      "githubUrl": "https://github.com/chrisboyle/sgtpuzzles.git @add",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "Simple Brick Games",
+      "slug": "simple_brick_games",
+      "githubUrl": "https://github.com/TobiasBielefeld/Simple-Brick-Games",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Simple Platformer",
+      "slug": "simple_platformer",
+      "githubUrl": "https://github.com/SteveSmith16384/SimplePlatformer",
+      "genre": "arcade",
+      "tags": ["arcade", "platform"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Sine",
+      "slug": "sine",
+      "githubUrl": "https://github.com/slx7R4GDZM/Sine",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Sintel The Game",
+      "slug": "sintel_the_game",
+      "githubUrl": "https://github.com/jonburesh/sintelgame",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Skifree-HTML5-clone",
+      "slug": "skifree-html5-clone",
+      "githubUrl": "https://github.com/andymason/Skifree-HTML5-clone",
+      "genre": "arcade",
+      "tags": ["arcade", "remake", "sports"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "SliJewel",
+      "slug": "slijewel",
+      "githubUrl": "https://github.com/cricri-pingouin/SliJewel",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliLights",
+      "slug": "slilights",
+      "githubUrl": "https://github.com/cricri-pingouin/SliLights",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliLumns",
+      "slug": "slilumns",
+      "githubUrl": "https://github.com/cricri-pingouin/SliLumns",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliMind",
+      "slug": "slimind",
+      "githubUrl": "https://github.com/cricri-pingouin/SliMind",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliMine",
+      "slug": "slimine",
+      "githubUrl": "https://github.com/cricri-pingouin/SliMine",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliPeg",
+      "slug": "slipeg",
+      "githubUrl": "https://github.com/cricri-pingouin/SliPeg",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliSame",
+      "slug": "slisame",
+      "githubUrl": "https://github.com/cricri-pingouin/SliSame",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliSnake",
+      "slug": "slisnake",
+      "githubUrl": "https://github.com/cricri-pingouin/SliSnake",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "SliTris",
+      "slug": "slitris",
+      "githubUrl": "https://github.com/cricri-pingouin/SliTris",
+      "genre": "arcade",
+      "tags": ["arcade", "puzzle", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "Smash",
+      "slug": "smash",
+      "githubUrl": "https://github.com/guillaume-gouchon/smash.js",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "snake",
+      "slug": "snake",
+      "githubUrl": "https://github.com/spypunk/snake",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Soldank",
+      "slug": "soldank",
+      "githubUrl": "https://github.com/smokku/soldank",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Sole Collector",
+      "slug": "sole_collector",
+      "githubUrl": "https://github.com/SteveSmith16384/3DHorrorGame",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Sonic 3: Angel Island Revisited",
+      "slug": "sonic_3_angel_island_revisited",
+      "githubUrl": "https://github.com/Eukaryot/sonic3air/releases",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Sootl",
+      "slug": "sootl",
+      "githubUrl": "https://github.com/andybalaam/sootl",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["Elm", "JavaScript"]
+    },
+    {
+      "title": "Sourcehold",
+      "slug": "sourcehold",
+      "githubUrl": "https://github.com/sourcehold/Sourcehold",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "SpaceCadetPinball",
+      "slug": "spacecadetpinball",
+      "githubUrl": "https://github.com/k4zmu2a/SpaceCadetPinball/releases",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "SpelunkyPSP",
+      "slug": "spelunkypsp",
+      "githubUrl": "https://github.com/dbeef/spelunky-psp/releases",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "splexhd",
+      "slug": "splexhd",
+      "githubUrl": "https://github.com/radu124/splexhd",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Spooker Framework",
+      "slug": "spooker_framework",
+      "githubUrl": "https://github.com/deathbeam/spooker",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "SRB2Kart",
+      "slug": "srb2kart",
+      "githubUrl": "https://github.com/STJr/Kart-Public/releases",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "SS13 Remake",
+      "slug": "ss13_remake",
+      "githubUrl": "https://github.com/ss13remake/ss13remake",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "star-control2",
+      "slug": "star-control2",
+      "githubUrl": "https://github.com/jjimenezg93/star-control2",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Star-Wars-III",
+      "slug": "star-wars-iii",
+      "githubUrl": "https://github.com/abhinandanramesh/Star-Wars-III",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Stareater",
+      "slug": "stareater",
+      "githubUrl": "https://github.com/subchannel13/Stareater/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Starship Olympics",
+      "slug": "starship_olympics",
+      "githubUrl": "https://github.com/notapixelstudio/starship-olympics",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "active",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Sundog: Frozen Legacy",
+      "slug": "sundog_frozen_legacy",
+      "githubUrl": "https://github.com/laanwj/sundog",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "Super Bombinhas",
+      "slug": "super_bombinhas",
+      "githubUrl": "https://github.com/victords/super-bombinhas",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Ruby"]
+    },
+    {
+      "title": "Super Methane Brothers for Wii and GameCube",
+      "slug": "super_methane_brothers_for_wii_and_gamecube",
+      "githubUrl": "https://github.com/carstene1ns/super-methane-brothers",
+      "genre": "arcade",
+      "tags": ["arcade", "remake"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Super Retro Mega Wars",
+      "slug": "super_retro_mega_wars",
+      "githubUrl": "https://github.com/retrowars/retrowars",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "active",
+      "languages": ["Kotlin"]
+    },
+    {
+      "title": "Super Tilt Bro",
+      "slug": "super_tilt_bro",
+      "githubUrl": "https://github.com/sgadrat/super-tilt-bro/releases",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["Assembly", "Python"]
+    },
+    {
+      "title": "SuperFoulEgg",
+      "slug": "superfoulegg",
+      "githubUrl": "https://github.com/ant512/SuperFoulEgg",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["Objective-C", "C"]
+    },
+    {
+      "title": "SuperTux",
+      "slug": "supertux",
+      "githubUrl": "https://github.com/SuperTux/supertux/releases",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "SurrealEngine",
+      "slug": "surrealengine",
+      "githubUrl": "https://github.com/dpjudas/SurrealEngine",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "System Syzygy",
+      "slug": "system_syzygy",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Taggem",
+      "slug": "taggem",
+      "githubUrl": "https://github.com/apsillers/Taggem",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Taisei Project",
+      "slug": "taisei_project",
+      "githubUrl": "https://github.com/taisei-project/taisei/releases",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "mature",
+      "languages": ["C", "Python"]
+    },
+    {
+      "title": "TankistOnline",
+      "slug": "tankistonline",
+      "githubUrl": "https://github.com/servusDei2018/TankistOnline",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "active",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Taponium",
+      "slug": "taponium",
+      "githubUrl": "https://github.com/wsdfhjxc/taponium",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Tenes Empanadas Graciela",
+      "slug": "tenes_empanadas_graciela",
+      "githubUrl": "https://github.com/wfx/teg",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["C", "JavaScript", "Perl", "C++"]
+    },
+    {
+      "title": "TermFrogger",
+      "slug": "termfrogger",
+      "githubUrl": "https://github.com/fastrgv/TermFrogger",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "TerminalApps",
+      "slug": "terminalapps",
+      "githubUrl": "https://github.com/fastrgv/TerminalApps",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Ada"]
+    },
+    {
+      "title": "TES3MP",
+      "slug": "tes3mp",
+      "githubUrl": "https://github.com/TES3MP/TES3MP/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "TetraVex",
+      "slug": "tetravex",
+      "githubUrl": "https://github.com/Lisergishnu/TetraVex",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "active",
+      "languages": ["Swift"]
+    },
+    {
+      "title": "The Butterfly Effect",
+      "slug": "the_butterfly_effect",
+      "githubUrl": "https://github.com/the-butterfly-effect/tbe/releases",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "The Castles of Dr. Creep",
+      "slug": "the_castles_of_dr_creep",
+      "githubUrl": "https://github.com/segrax/DrCreep/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "mature",
+      "languages": ["C++", "Script"]
+    },
+    {
+      "title": "The Catacomb",
+      "slug": "the_catacomb",
+      "githubUrl": "https://github.com/CatacombGames/TheCatacomb",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "The House",
+      "slug": "the_house",
+      "githubUrl": "https://github.com/arturkot/the-house-game",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "The Knights of Alentejo",
+      "slug": "the_knights_of_alentejo",
+      "githubUrl": "https://github.com/TheFakeMontyOnTheRun/knightsofalentejo",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["Java", "C++"]
+    },
+    {
+      "title": "The Legend of Edgar",
+      "slug": "the_legend_of_edgar",
+      "githubUrl": "https://github.com/riksweeney/edgar/releases",
+      "genre": "action",
+      "tags": ["action", "platform"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "The-Trail",
+      "slug": "the-trail",
+      "githubUrl": "https://github.com/TheRedSpy15/The-Trail",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "TheXTech",
+      "slug": "thextech",
+      "githubUrl": "https://github.com/Wohlstand/TheXTech/releases",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "thiefcatcher",
+      "slug": "thiefcatcher",
+      "githubUrl": "https://github.com/Ponup/thiefcatcher",
+      "genre": "educational",
+      "tags": ["educational", "remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Threes-C",
+      "slug": "threes-c",
+      "githubUrl": "https://github.com/harshjv/threes-c",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C", "Objective-C"]
+    },
+    {
+      "title": "Threes.el",
+      "slug": "threesel",
+      "githubUrl": "https://github.com/xuchunyang/threes.el",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Emacs Lisp"]
+    },
+    {
+      "title": "Thrive",
+      "slug": "thrive",
+      "githubUrl": "https://github.com/Revolutionary-Games/Thrive/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "active",
+      "languages": ["C++", "AngelScript", "JavaScript", "C#"]
+    },
+    {
+      "title": "Thyme",
+      "slug": "thyme",
+      "githubUrl": "https://github.com/TheAssemblyArmada/Thyme",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Tiny Wings",
+      "slug": "tiny_wings",
+      "githubUrl": "https://github.com/haqu/tiny-wings",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Objective-C", "C", "C++"]
+    },
+    {
+      "title": "TOMB5",
+      "slug": "tomb5",
+      "githubUrl": "https://github.com/TOMB5/TOMB5",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "Torrega Race",
+      "slug": "torrega_race",
+      "githubUrl": "https://github.com/andwj/torrega",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["Lua"]
+    },
+    {
+      "title": "Torso Ninja",
+      "slug": "torso_ninja",
+      "githubUrl": "https://github.com/ErikLetson/torso-ninja",
+      "genre": "action",
+      "tags": ["action", "arcade"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Torso Ninja 2",
+      "slug": "torso_ninja_2",
+      "githubUrl": "https://github.com/ErikLetson/torso-ninja-2",
+      "genre": "action",
+      "tags": ["action", "arcade"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "TOSIOS",
+      "slug": "tosios",
+      "githubUrl": "https://github.com/halftheopposite/TOSIOS",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "active",
+      "languages": ["TypeScript"]
+    },
+    {
+      "title": "Tower Building Game",
+      "slug": "tower_building_game",
+      "githubUrl": "https://github.com/iamkun/tower_game",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "TowerJumper",
+      "slug": "towerjumper",
+      "githubUrl": "https://github.com/Dariasteam/TowerJumper",
+      "genre": "arcade",
+      "tags": ["arcade", "strategy"],
+      "status": "mature",
+      "languages": ["C++", "GDScript"]
+    },
+    {
+      "title": "Train",
+      "slug": "train",
+      "githubUrl": "https://github.com/nenadalm/Train",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "TrueCraft",
+      "slug": "truecraft",
+      "githubUrl": "https://github.com/danielcrenna/TrueCraft.git @add",
+      "genre": "remake",
+      "tags": ["remake", "simulation"],
+      "status": "unknown",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Tumbly Towers",
+      "slug": "tumbly_towers",
+      "githubUrl": "https://github.com/SteveSmith16384/TumblyTowers",
+      "genre": "puzzle",
+      "tags": ["puzzle", "remake"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Turn of War",
+      "slug": "turn_of_war",
+      "githubUrl": "https://github.com/trananh1992/Turn-of-War",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Turo",
+      "slug": "turo",
+      "githubUrl": "https://github.com/HassanHeydariNasab/turo",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["PHP", "GDScript"]
+    },
+    {
+      "title": "TurokEX",
+      "slug": "turokex",
+      "githubUrl": "https://github.com/svkaiser/TurokEX",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "Tux Builder",
+      "slug": "tux_builder",
+      "githubUrl": "https://github.com/Alzter/TuxBuilder",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "active",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Tux Memory",
+      "slug": "tux_memory",
+      "githubUrl": "https://github.com/androidsoft-org/androidsoft-tuxmemory",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "TyrQuake",
+      "slug": "tyrquake",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "UA_source",
+      "slug": "uasource",
+      "githubUrl": "https://github.com/Marisa-Chan/UA_source",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "UAlbion",
+      "slug": "ualbion",
+      "githubUrl": "https://github.com/csinkers/ualbion",
+      "genre": "role playing",
+      "tags": ["role playing"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "UchuServer",
+      "slug": "uchuserver",
+      "githubUrl": "https://github.com/UchuServer/Uchu",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "UltraStar Deluxe",
+      "slug": "ultrastar_deluxe",
+      "githubUrl": "https://github.com/UltraStar-Deluxe/legacy-sourceforge-svn-mirror.git @add",
+      "genre": "music",
+      "tags": ["music", "remake"],
+      "status": "mature",
+      "languages": ["Pascal"]
+    },
+    {
+      "title": "Unciv",
+      "slug": "unciv",
+      "githubUrl": "https://github.com/yairm210/Unciv",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["Kotlin"]
+    },
+    {
+      "title": "UnderworldExporter",
+      "slug": "underworldexporter",
+      "githubUrl": "https://github.com/hankmorgan/UnderworldExporter",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C#", "C++"]
+    },
+    {
+      "title": "uninvited",
+      "slug": "uninvited",
+      "githubUrl": "https://github.com/DavidGriffith/uninvited",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "unknown",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "UnityPacmania",
+      "slug": "unitypacmania",
+      "githubUrl": "https://github.com/stuart73/UnityPacmania",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "unitystation",
+      "slug": "unitystation",
+      "githubUrl": "https://github.com/unitystation/unitystation/releases?after=0.1.3.1",
+      "genre": "adventure",
+      "tags": ["adventure"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Unvanquished",
+      "slug": "unvanquished",
+      "githubUrl": "https://github.com/DaemonEngine/Daemon.git @add",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "UTEngine",
+      "slug": "utengine",
+      "githubUrl": "https://github.com/dpjudas/UTEngine",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Vange-rs",
+      "slug": "vange-rs",
+      "githubUrl": "https://github.com/kvark/vange-rs/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Vangers",
+      "slug": "vangers",
+      "githubUrl": "https://github.com/KranX/Vangers",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Vanilla-Conquer",
+      "slug": "vanilla-conquer",
+      "githubUrl": "https://github.com/TheAssemblyArmada/Vanilla-Conquer",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C", "C++", "Assembly"]
+    },
+    {
+      "title": "Vault13",
+      "slug": "vault13",
+      "githubUrl": "https://github.com/pingw33n/vault13",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "unknown",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "Vector Pinball",
+      "slug": "vector_pinball",
+      "githubUrl": "https://github.com/dozingcat/Vector-Pinball",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Veraball",
+      "slug": "veraball",
+      "githubUrl": "https://github.com/Veraball/veraball",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "unknown",
+      "languages": ["GDScript"]
+    },
+    {
+      "title": "Vib-Ribbon Minus",
+      "slug": "vib-ribbon_minus",
+      "githubUrl": "https://github.com/PlayNowKnux/VibRibbonMinusRelease/releases",
+      "genre": "music",
+      "tags": ["music", "remake"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Violetland",
+      "slug": "violetland",
+      "githubUrl": "https://github.com/ooxi/violetland/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "vkQuake",
+      "slug": "vkquake",
+      "githubUrl": "https://github.com/Novum/vkQuake",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C", "C++"]
+    },
+    {
+      "title": "VVVVVV",
+      "slug": "vvvvvv",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "mature",
+      "languages": ["ActionScript", "C++"]
+    },
+    {
+      "title": "WallBall",
+      "slug": "wallball",
+      "githubUrl": "https://github.com/plainsightcollection/plainsightcollection.github.io",
+      "genre": "simulation",
+      "tags": ["simulation"],
+      "status": "mature",
+      "languages": ["Haxe", "JavaScript"]
+    },
+    {
+      "title": "War Thunder",
+      "slug": "war_thunder",
+      "githubUrl": "https://github.com/GaijinEntertainment/DagorEngine",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "mature",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "War1",
+      "slug": "war1",
+      "githubUrl": "https://github.com/acoto87/war1",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "War1gus",
+      "slug": "war1gus",
+      "githubUrl": "https://github.com/Wargus/war1gus/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["Lua", "C++"]
+    },
+    {
+      "title": "Wargus",
+      "slug": "wargus",
+      "githubUrl": "https://github.com/Wargus/wargus/releases",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C++", "Lua", "C"]
+    },
+    {
+      "title": "Wario-Land-3",
+      "slug": "wario-land-3",
+      "githubUrl": "https://github.com/Nearoo/Wario-Land-3",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "unknown",
+      "languages": ["Python"]
+    },
+    {
+      "title": "Warzone 2100",
+      "slug": "warzone_2100",
+      "githubUrl": "https://github.com/Warzone2100/warzone2100/releases",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Waterkube",
+      "slug": "waterkube",
+      "githubUrl": "https://github.com/waterkube/waterkube/releases",
+      "genre": "puzzle",
+      "tags": ["puzzle"],
+      "status": "mature",
+      "languages": ["Go"]
+    },
+    {
+      "title": "WinWar",
+      "slug": "winwar",
+      "githubUrl": "https://github.com/CAMongrel/WinWar",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "mature",
+      "languages": ["C#"]
+    },
+    {
+      "title": "Witch Blast",
+      "slug": "witch_blast",
+      "githubUrl": "https://github.com/Cirrus-Minor/witchblast",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Wizards Magic",
+      "slug": "wizards_magic",
+      "githubUrl": "https://github.com/chubakur/wizards-magic2.git @add",
+      "genre": "cards",
+      "tags": ["cards", "remake", "strategy"],
+      "status": "mature",
+      "languages": ["Python"]
+    },
+    {
+      "title": "wkbre",
+      "slug": "wkbre",
+      "githubUrl": "https://github.com/AdrienTD/wkbre",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++", "C"]
+    },
+    {
+      "title": "wkbre2",
+      "slug": "wkbre2",
+      "githubUrl": "https://github.com/AdrienTD/wkbre2",
+      "genre": "remake",
+      "tags": ["remake", "strategy"],
+      "status": "active",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Wolf3dX",
+      "slug": "wolf3dx",
+      "githubUrl": "https://github.com/francot514/Wolf3dX",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "WorldForge",
+      "slug": "worldforge",
+      "githubUrl": "https://github.com/worldforge/ember.git @add",
+      "genre": "remake",
+      "tags": ["remake", "role playing"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "WWW",
+      "slug": "www",
+      "githubUrl": "https://github.com/alexdantas/www",
+      "genre": "platform",
+      "tags": ["platform", "puzzle"],
+      "status": "unknown",
+      "languages": ["JavaScript"]
+    },
+    {
+      "title": "Wyrmsun",
+      "slug": "wyrmsun",
+      "githubUrl": "https://github.com/Andrettin/Wyrmgus.git @add",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "mature",
+      "languages": ["Lua", "C++"]
+    },
+    {
+      "title": "Xargon",
+      "slug": "xargon",
+      "githubUrl": "https://github.com/Malvineous/xargon",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "XEvil",
+      "slug": "xevil",
+      "githubUrl": "https://github.com/lvella/xevil/",
+      "genre": "platform",
+      "tags": ["platform"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "XMage",
+      "slug": "xmage",
+      "githubUrl": "https://github.com/magefree/mage/releases",
+      "genre": "cards",
+      "tags": ["cards", "strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "XSera",
+      "slug": "xsera",
+      "githubUrl": "https://github.com/prophile/xsera",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["C", "Lua"]
+    },
+    {
+      "title": "XSkat",
+      "slug": "xskat",
+      "githubUrl": "https://github.com/rnauber/xskat-android/releases",
+      "genre": "cards",
+      "tags": ["cards", "strategy"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Xultris",
+      "slug": "xultris",
+      "githubUrl": "https://github.com/mackers/xultris",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "mature",
+      "languages": ["JavaScript", "XUL"]
+    },
+    {
+      "title": "Xye",
+      "slug": "xye",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "arcade",
+      "tags": ["arcade"],
+      "status": "unknown",
+      "languages": ["C++"]
+    },
+    {
+      "title": "YKnytt",
+      "slug": "yknytt",
+      "githubUrl": "https://github.com/youkaicountry/yknytt",
+      "genre": "platform",
+      "tags": ["platform", "remake"],
+      "status": "active",
+      "languages": ["C#"]
+    },
+    {
+      "title": "YSoccer",
+      "slug": "ysoccer",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "remake",
+      "tags": ["remake", "simulation", "sports"],
+      "status": "mature",
+      "languages": ["Java"]
+    },
+    {
+      "title": "Zatacka X",
+      "slug": "zatacka_x",
+      "githubUrl": "https://github.com/simenheg/zatackax",
+      "genre": "action",
+      "tags": ["action", "remake"],
+      "status": "active",
+      "languages": ["C"]
+    },
+    {
+      "title": "Zauberer",
+      "slug": "zauberer",
+      "githubUrl": "https://github.com/CireG/Zauberer/",
+      "genre": "action",
+      "tags": ["action"],
+      "status": "unknown",
+      "languages": ["None"]
+    },
+    {
+      "title": "ZDoom",
+      "slug": "zdoom",
+      "githubUrl": "https://github.com/coelckers/gzdoom/releases",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C", "C++", "ZenScript"]
+    },
+    {
+      "title": "zelda3",
+      "slug": "zelda3",
+      "githubUrl": "https://github.com/snesrev/zelda3",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C"]
+    },
+    {
+      "title": "ZGloom",
+      "slug": "zgloom",
+      "githubUrl": "https://github.com/Swizpig/ZGloom",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "mature",
+      "languages": ["C++"]
+    },
+    {
+      "title": "Zone of Control",
+      "slug": "zone_of_control",
+      "githubUrl": "https://github.com/ozkriff/zoc",
+      "genre": "strategy",
+      "tags": ["strategy"],
+      "status": "unknown",
+      "languages": ["Rust"]
+    },
+    {
+      "title": "zorkClone",
+      "slug": "zorkclone",
+      "githubUrl": "https://github.com/vatbub/zorkClone",
+      "genre": "adventure",
+      "tags": ["adventure", "remake"],
+      "status": "active",
+      "languages": ["Java"]
+    },
+    {
+      "title": "zztgo",
+      "slug": "zztgo",
+      "githubUrl": "https://github.com/Trilarion/opensourcegames",
+      "genre": "remake",
+      "tags": ["remake"],
+      "status": "active",
+      "languages": ["Go"]
+    }
+  ]
+}

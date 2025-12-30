@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OpenGames (Open Source Games Directory)
 
-## Getting Started
+SEO-first directory for discovering open-source games, powered by **Next.js (App Router)** on **Cloudflare Pages** with **D1 + Drizzle**.
 
-First, run the development server:
+## Features
+
+- **/games**: searchable, filterable directory (language/genre/topic/platform/multiplayer)
+- **/games/[slug]**: SEO-optimized game detail pages (Schema.org, OG images, related games)
+- **/category/[slug]**: pSEO category pages (100+ predefined categories)
+- **/topic/[topic]**: topic/tag landing pages
+- **/trending**: trending + recently updated games
+- **/api/**: JSON APIs for games/search/stats/categories
+- **Icons/OG**: dynamic OpenGraph images + PWA icons served from routes
+
+## Tech Stack
+
+- Next.js 15 (React 19)
+- Cloudflare Pages via `@cloudflare/next-on-pages`
+- Cloudflare D1 (SQLite) + Drizzle ORM
+- Vitest + Testing Library
+
+## Local Development
+
+Install deps:
+
+```bash
+npm install
+```
+
+Run Next.js dev server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open: `http://localhost:3000`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Cloudflare Pages Preview (recommended)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Build + run the Pages-style preview (edge runtime):
 
-## Learn More
+```bash
+npm run preview
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Database (D1) – Local
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run migrations against local D1:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run db:migrate:local
+```
 
-## Deploy on Vercel
+Run migrations against remote D1:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+npm run db:migrate:remote
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Sync games into D1:
+
+```bash
+npm run sync:local
+```
+
+## Environment Variables
+
+Cloudflare bindings are configured in `wrangler.toml`.
+
+- Required for syncing/scraping:
+  - `GITHUB_TOKEN`
+- Optional:
+  - `OPENAI_API_KEY` (AI reviews / category content)
+  - `NEXT_PUBLIC_SITE_URL`
+  - `GOOGLE_SITE_VERIFICATION`
+  - `NEXT_PUBLIC_GITHUB_URL`
+  - `NEXT_PUBLIC_TWITTER_URL`
+
+For local Pages dev bindings, copy `.dev.vars.example` → `.dev.vars` and fill values.
+
+## Scripts
+
+- `npm run scrape` / `npm run sync:local` / `npm run sync:remote`
+- `npm run generate:reviews`
+- `npm run generate:categories`
+- `npm run lint`
+- `npm run test:run`
+- `npm run build`

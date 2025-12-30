@@ -9,10 +9,21 @@ const eslintConfig = defineConfig([
   globalIgnores([
     // Default ignores of eslint-config-next:
     ".next/**",
+    ".vercel/**",
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Additional ignores:
+    ".open-next/**",
+    "coverage/**",
   ]),
+  {
+    rules: {
+      // Disable react-hooks/set-state-in-effect for theme provider
+      // The theme needs to be applied synchronously during initial render to prevent flash
+      "react-hooks/set-state-in-effect": "off",
+    },
+  },
 ]);
 
 export default eslintConfig;

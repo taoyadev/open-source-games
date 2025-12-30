@@ -36,6 +36,21 @@ yarn-error.log*
 # vercel
 .vercel
 
+# cloudflare wrangler (contains sensitive account_id)
+wrangler.toml
+.dev.vars
+.wrangler
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# OpenNext build output
+.open-next/
+
+# Local data
+.local-data/
+
+# Temporary files
+.tmp-*.sql
+package-lock.json

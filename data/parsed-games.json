@@ -1,0 +1,362 @@
+{
+  "parsedAt": "2025-12-29T07:12:07.776Z",
+  "sourceFile": "parsed-markdown",
+  "totalGames": 30,
+  "categories": {
+    "Action games": 5,
+    "Adventure games": 3,
+    "Business and Tycoon games": 2,
+    "City-Building games": 1,
+    "First-Person games": 1,
+    "Platformers": 2,
+    "Puzzle games": 2,
+    "Racing games": 1,
+    "Real-Time strategies": 2,
+    "Roguelikes": 2,
+    "Role-Playing games": 2,
+    "Sandbox games": 2,
+    "Shoot 'em up games": 1,
+    "Sport games": 1,
+    "Third-Person games": 1,
+    "Turn-Based strategies": 2
+  },
+  "games": [
+    {
+      "title": "Doom",
+      "slug": "doom",
+      "id": "id-software-doom",
+      "repoUrl": "https://github.com/id-Software/DOOM",
+      "owner": "id-Software",
+      "repo": "DOOM",
+      "description": "The classic first-person shooter",
+      "category": "Action games",
+      "homepage": "https://www.doom.com"
+    },
+    {
+      "title": "Abuse",
+      "slug": "abuse",
+      "id": "anarkiaviene-abuse",
+      "repoUrl": "https://github.com/anarkiaviene/abuse",
+      "owner": "anarkiaviene",
+      "repo": "abuse",
+      "description": "A side-scrolling platform shooter",
+      "category": "Action games",
+      "homepage": "http://abuse.zoy.org"
+    },
+    {
+      "title": "Alien Arena",
+      "slug": "alien-arena",
+      "id": "code-disaster-aa-source",
+      "repoUrl": "https://github.com/code-disaster/aa-source",
+      "owner": "code-disaster",
+      "repo": "aa-source",
+      "description": "A fast-paced first-person shooter",
+      "category": "Action games",
+      "homepage": null
+    },
+    {
+      "title": "OpenArena",
+      "slug": "openarena",
+      "id": "openarena-engine",
+      "repoUrl": "https://github.com/OpenArena/engine",
+      "owner": "OpenArena",
+      "repo": "engine",
+      "description": "A community-produced deathmatch FPS",
+      "category": "Action games",
+      "homepage": "https://openarena.ws"
+    },
+    {
+      "title": "AssaultCube",
+      "slug": "assaultcube",
+      "id": "assaultcube-ac",
+      "repoUrl": "https://github.com/assaultcube/AC",
+      "owner": "assaultcube",
+      "repo": "AC",
+      "description": "A tactical first-person shooter",
+      "category": "Action games",
+      "homepage": null
+    },
+    {
+      "title": "Endless Sky",
+      "slug": "endless-sky",
+      "id": "endless-sky-endless-sky",
+      "repoUrl": "https://github.com/endless-sky/endless-sky",
+      "owner": "endless-sky",
+      "repo": "endless-sky",
+      "description": "Space exploration, trading, and combat game",
+      "category": "Adventure games",
+      "homepage": "https://endless-sky.github.io/"
+    },
+    {
+      "title": "ScummVM",
+      "slug": "scummvm",
+      "id": "scummvm-scummvm",
+      "repoUrl": "https://github.com/scummvm/scummvm",
+      "owner": "scummvm",
+      "repo": "scummvm",
+      "description": "A program which allows you to run certain classic graphical point-and-click adventure games",
+      "category": "Adventure games",
+      "homepage": null
+    },
+    {
+      "title": "Pioneer",
+      "slug": "pioneer",
+      "id": "pioneerspacesim-pioneer",
+      "repoUrl": "https://github.com/pioneerspacesim/pioneer",
+      "owner": "pioneerspacesim",
+      "repo": "pioneer",
+      "description": "A game of lonely space adventure",
+      "category": "Adventure games",
+      "homepage": null
+    },
+    {
+      "title": "OpenTTD",
+      "slug": "openttd",
+      "id": "openttd-openttd",
+      "repoUrl": "https://github.com/OpenTTD/OpenTTD",
+      "owner": "OpenTTD",
+      "repo": "OpenTTD",
+      "description": "An open source simulation game based upon Transport Tycoon Deluxe",
+      "category": "Business and Tycoon games",
+      "homepage": "https://www.openttd.org"
+    },
+    {
+      "title": "Factorio",
+      "slug": "factorio",
+      "id": "factorio-factorio",
+      "repoUrl": "https://github.com/factorio/factorio",
+      "owner": "factorio",
+      "repo": "factorio",
+      "description": "A game about building and maintaining factories",
+      "category": "Business and Tycoon games",
+      "homepage": "https://factorio.com"
+    },
+    {
+      "title": "OpenCity",
+      "slug": "opencity",
+      "id": "sohilab-open-city",
+      "repoUrl": "https://github.com/sohilab/open-city",
+      "owner": "sohilab",
+      "repo": "open-city",
+      "description": "A 3D city simulator game",
+      "category": "City-Building games",
+      "homepage": "http://www.opencity.info/"
+    },
+    {
+      "title": "Red Eclipse",
+      "slug": "red-eclipse",
+      "id": "redeclipse-base",
+      "repoUrl": "https://github.com/redeclipse/base",
+      "owner": "redeclipse",
+      "repo": "base",
+      "description": "A fun-filled new take on the first person arena shooter",
+      "category": "First-Person games",
+      "homepage": "https://www.redeclipse.net"
+    },
+    {
+      "title": "Super Mario War",
+      "slug": "super-mario-war",
+      "id": "mmatyas-supermariowar",
+      "repoUrl": "https://github.com/mmatyas/supermariowar",
+      "owner": "mmatyas",
+      "repo": "supermariowar",
+      "description": "A multiplayer game where the goal is to jump on your enemies",
+      "category": "Platformers",
+      "homepage": "http://www.smwstuff.net"
+    },
+    {
+      "title": "The Battle for Wesnoth",
+      "slug": "the-battle-for-wesnoth",
+      "id": "wesnoth-wesnoth",
+      "repoUrl": "https://github.com/wesnoth/wesnoth",
+      "owner": "wesnoth",
+      "repo": "wesnoth",
+      "description": "A turn-based tactical strategy game",
+      "category": "Platformers",
+      "homepage": "https://www.wesnoth.org"
+    },
+    {
+      "title": "Enigma",
+      "slug": "enigma",
+      "id": "enigma-game-enigma",
+      "repoUrl": "https://github.com/Enigma-Game/Enigma",
+      "owner": "Enigma-Game",
+      "repo": "Enigma",
+      "description": "A puzzle game reminiscent of Oxyd and Rock'n'Roll",
+      "category": "Puzzle games",
+      "homepage": "http://www.nongnu.org/enigma/"
+    },
+    {
+      "title": "Neverball",
+      "slug": "neverball",
+      "id": "neverball-neverball",
+      "repoUrl": "https://github.com/Neverball/neverball",
+      "owner": "Neverball",
+      "repo": "neverball",
+      "description": "A tilt-based puzzle game",
+      "category": "Puzzle games",
+      "homepage": "http://neverball.org"
+    },
+    {
+      "title": "Trigger Rally",
+      "slug": "trigger-rally",
+      "id": "trigger-rally-trigger-rally",
+      "repoUrl": "https://github.com/trigger-rally/trigger-rally",
+      "owner": "trigger-rally",
+      "repo": "trigger-rally",
+      "description": "A free rally simulation game",
+      "category": "Racing games",
+      "homepage": "http://trigger-rally.sourceforge.net"
+    },
+    {
+      "title": "0 A.D.",
+      "slug": "0-ad",
+      "id": "0ad-0ad",
+      "repoUrl": "https://github.com/0ad/0ad",
+      "owner": "0ad",
+      "repo": "0ad",
+      "description": "A free, open-source game of ancient warfare",
+      "category": "Real-Time strategies",
+      "homepage": "https://play0ad.com"
+    },
+    {
+      "title": "Warzone 2100",
+      "slug": "warzone-2100",
+      "id": "warzone2100-warzone2100",
+      "repoUrl": "https://github.com/Warzone2100/warzone2100",
+      "owner": "Warzone2100",
+      "repo": "warzone2100",
+      "description": "A cross-platform real-time strategy game",
+      "category": "Real-Time strategies",
+      "homepage": "http://wz2100.net"
+    },
+    {
+      "title": "Dungeon Crawl Stone Soup",
+      "slug": "dungeon-crawl-stone-soup",
+      "id": "crawl-crawl",
+      "repoUrl": "https://github.com/crawl/crawl",
+      "owner": "crawl",
+      "repo": "crawl",
+      "description": "A classic roguelike game",
+      "category": "Roguelikes",
+      "homepage": "https://crawl.develz.org"
+    },
+    {
+      "title": "NetHack",
+      "slug": "nethack",
+      "id": "nethack-nethack",
+      "repoUrl": "https://github.com/NetHack/NetHack",
+      "owner": "NetHack",
+      "repo": "NetHack",
+      "description": "A classic roguelike dungeon crawler",
+      "category": "Roguelikes",
+      "homepage": "http://www.nethack.org"
+    },
+    {
+      "title": "Flare RPG",
+      "slug": "flare-rpg",
+      "id": "flareteam-flare-game",
+      "repoUrl": "https://github.com/flareteam/flare-game",
+      "owner": "flareteam",
+      "repo": "flare-game",
+      "description": "Free Libre Action Roleplaying Engine",
+      "category": "Role-Playing games",
+      "homepage": "http://flarerpg.org"
+    },
+    {
+      "title": "Veloren",
+      "slug": "veloren",
+      "id": "veloren-veloren",
+      "repoUrl": "https://github.com/veloren/veloren",
+      "owner": "veloren",
+      "repo": "veloren",
+      "description": "An open-source voxel RPG",
+      "category": "Role-Playing games",
+      "homepage": "https://veloren.net"
+    },
+    {
+      "title": "Minetest",
+      "slug": "minetest",
+      "id": "minetest-minetest",
+      "repoUrl": "https://github.com/minetest/minetest",
+      "owner": "minetest",
+      "repo": "minetest",
+      "description": "An open-source voxel game engine",
+      "category": "Sandbox games",
+      "homepage": "https://www.minetest.net"
+    },
+    {
+      "title": "Terasology",
+      "slug": "terasology",
+      "id": "movingblocks-terasology",
+      "repoUrl": "https://github.com/MovingBlocks/Terasology",
+      "owner": "MovingBlocks",
+      "repo": "Terasology",
+      "description": "A voxel world game",
+      "category": "Sandbox games",
+      "homepage": "http://terasology.org"
+    },
+    {
+      "title": "R-Type clone",
+      "slug": "r-type-clone",
+      "id": "leirrel-r-type-clone",
+      "repoUrl": "https://github.com/leirrel/R-Type-Clone",
+      "owner": "leirrel",
+      "repo": "R-Type-Clone",
+      "description": "An R-Type clone",
+      "category": "Shoot 'em up games",
+      "homepage": null
+    },
+    {
+      "title": "Slipstream 5000",
+      "slug": "slipstream-5000",
+      "id": "slipstream5000-sl5000",
+      "repoUrl": "https://github.com/slipstream5000/sl5000",
+      "owner": "slipstream5000",
+      "repo": "sl5000",
+      "description": "A racing game",
+      "category": "Sport games",
+      "homepage": "http://www.slipstream5000.com"
+    },
+    {
+      "title": "VDrift",
+      "slug": "vdrift",
+      "id": "vdrift-vdrift",
+      "repoUrl": "https://github.com/VDrift/vdrift",
+      "owner": "VDrift",
+      "repo": "vdrift",
+      "description": "A racing simulation",
+      "category": "Third-Person games",
+      "homepage": "http://www.vdrift.net"
+    },
+    {
+      "title": "FreeCol",
+      "slug": "freecol",
+      "id": "freecol-freecol",
+      "repoUrl": "https://github.com/FreeCol/freecol",
+      "owner": "FreeCol",
+      "repo": "freecol",
+      "description": "A turn-based strategy game based on the old game Colonization",
+      "category": "Turn-Based strategies",
+      "homepage": "http://www.freecol.org"
+    },
+    {
+      "title": "FreeCiv",
+      "slug": "freeciv",
+      "id": "freeciv-freeciv",
+      "repoUrl": "https://github.com/freeciv/freeciv",
+      "owner": "freeciv",
+      "repo": "freeciv",
+      "description": "A free turn-based multiplayer strategy game",
+      "category": "Turn-Based strategies",
+      "homepage": "http://www.freeciv.org"
+    }
+  ],
+  "skipped": [
+    {
+      "reason": "No title found",
+      "line": "(see parser logs)",
+      "count": 1
+    }
+  ]
+}

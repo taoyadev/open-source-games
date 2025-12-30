@@ -1,0 +1,20 @@
+{
+  "name": "OpenGames - Discover Open Source Games",
+  "short_name": "OpenGames",
+  "description": "Discover free, open-source games. Browse by genre, language, platform, and explore trending projects from GitHub.",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#18181b",
+  "background_color": "#18181b",
+  "display": "standalone"
+}

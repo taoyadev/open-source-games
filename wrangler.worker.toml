@@ -1,0 +1,32 @@
+# Cloudflare Workers configuration for OpenNext deployment
+name = "open-source-games"
+main = ".open-next/worker.js"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+
+# Static assets directory (required for OpenNext)
+[assets]
+directory = ".open-next/assets"
+binding = "ASSETS"
+
+# D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "open-source-games-db"
+database_id = "18b3610b-780e-4b44-86b1-16b708e9fd3e"
+migrations_dir = "drizzle"
+
+# KV Namespace Binding
+[[kv_namespaces]]
+binding = "CACHE"
+id = "1853666ba9574ded9dbfbdd2f31da1de"
+
+# R2 Bucket Binding
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "open-source-games-images"
+
+# Environment Variables
+[vars]
+NEXT_PUBLIC_SITE_URL = "https://open-source-games.workers.dev"
+NEXT_PUBLIC_GITHUB_URL = "https://github.com/taoyadev/open-source-games"
